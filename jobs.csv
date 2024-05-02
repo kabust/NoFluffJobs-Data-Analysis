@@ -1,319 +1,319 @@
 Title,Company,Category,Remote,Seniority,Bottom salary,Top salary,Must haves,Nice to haves
 Remote Senior Software Engineer with Python,CodiLime,Backend,1,Senior,20500,25000,"Linux,Git,Kubernetes,Communication skills,Python,Docker","Golang,CI/CD,AWS,FastAPI"
-Senior Python Test Automation Software Engineer,Hitachi Energy,Testing,0,Senior,15000,20000,"MSc,Degree,Python,pytest,Test automation,CCNA,Cisco Certified Network Associate,OSI,Ethernet,VLAN,Linux,Bash,Git,Continuous integration,Azure DevOps,Communication skills",
-Senior Data Engineer,Sunscrapers,Data,1,Senior,27000,34000,"Python,ETL,Airflow,SQL,Communication skills,Google Cloud Platform,Snowflake,BI,Affinity CRM","BigQuery,Data visualization,Looker,Tableau,PowerBI,Salesforce"
-Senior Software Engineer in Test (Python),XM,Testing,1,Senior,14404,23407,"Python,API,REST API,Git,BSc","Quality assurance,Multithreading,Grafana,Docker,Prometheus"
-Senior Data Scientist,GOG,Data,0,Senior,20000,30000,"Python,Machine Learing,API,BigQuery,Data structures,Design Patterns","Docker,Kubernetes,Golang,Microservice architecture,Performance tuning,Web applications"
-Software Platform Developer,Ework Group,DevOps,1,Senior,29039,31943,"IaC,Cloud platform,Python,Kubernetes,Docker",
-Cloud Engineer II,Jamf,DevOps,1,Mid,12500,18500,"Python,Linux,Shell,AWS,AWS EC2,Amazon RDS,AWS Lambda,API,Gateway,AWS DynamoDB,Golang,Infrastructure as Code,CloudFormation,Terraform,Kubernetes,Git,Ansible,Progress Chef,Puppet,Jira,Salesforce,CI,CD tools,Jenkins,GitHub,RHCE",
 Data Scientist,Lingaro,Data,1,Senior,21840,25200,"Python,Optimalization,Azure","SQL,Team management"
-"Lead Data Software Engineer (Python, Azure)",EPAM Systems,Data,0,Senior,26500,32000,"Python,Azure Data,Azure Databricks,Databricks,PySpark",Azure Data Lake
-"Software Test Automation Engineer (Python, Squish)",Link Group,Testing,0,Senior,22000,28000,"Test automation,OOP,Python,C,C++,Bash,Linux,GUI testing,Squish",Agile
-Data Architect (AWS + Python) - Remote,Link Group,Data,1,Senior,32272,40341,"Python,AWS,Redshift,Aurora,Glue,Lake Formation,S3,Lambda,Data engineering,Apache Aurora,AWS S3,AWS Lambda,Kinesis,Kafka,MDM,Snowflake,dbt,Relational database,ETL,Data management",
-"Software Test Automation Engineer (Python, Squish)",Link Group,Testing,0,Mid,14000,22000,"Test automation,OOP,Python,C,C++,Bash,Linux,GUI testing,Squish",Agile
-Senior QA Python,AVENGA,Testing,1,Senior,24360,27720,"Quality assurance,Python,Java,Shell,Testing,XML,SQL,Unix,Jira,Test automation","SVN,JMeter,Selenium,ALM,Test management,Communication skills"
-Data Engineer Python,Connectis_,Data,1,Senior,28000,33000,"Python,Databricks,PySpark,Azure",
-ETL Developer with Python - Remote,DCG Sp. z o.o.,Data,1,Senior,25200,33600,"Python,Serverless,Git,AWS,RDBMS,Snowflake,ETL,Data Lake,Data warehouse,API,JDBC,file processing",
+Senior Software Engineer,Digital Hub Warsaw at Bayer,AI,0,Senior,20000,30000,"Python,AI,Machine learning","AWS,TensorFlow,Spark,Keras,Flux"
+Mid Data & AI Engineer FULLY REMOTE,Nest Bank,Data,1,Mid,15000,22000,"Big DATA,AI,Big Data,PySpark,Azure,Python,SQL,CI/CD",
+Software Platform Developer,Ework Group,DevOps,1,Senior,29039,31943,"IaC,Cloud platform,Python,Kubernetes,Docker",
+Mid/Senior Network QA Automation Engineer,CodiLime,Testing,1,Senior,16500,25000,"Python,Networks,Docker,Kubernetes,Linux,Git,CI/CD",
+Machine Learning Engineer,Tooploox,AI,1,Mid,13000,18000,"Python,Machine Learning,Computer vision","MSc,PhD"
+Junior Site Reliability Engineer,Wipro IT Services Poland,DevOps,0,Junior,17850,19950,"Python,Linux,Automation,Software Development Life Cycle,Unix,Kubernetes","Java,Docker,Virtualization"
+Network Automation Engineer (Python+Ansible),SoftServe,DevOps,1,Senior,24000,28000,"Python,Ansible,CI/CD","REST API,Git,MongoDB,NoSQL"
+Senior QA Engineer,Hitachi Energy,Testing,0,Senior,12000,18000,"Python,API,UI,QA,SQL,TS,JavaScript,Testing","Linux,RobotFramework,Playwright,ISTQB"
 Software Development Manager - Machine Learning,Tesco Technology,Data,0,Expert,28000,40000,"Team management,Machine learning,Apache Spark,Data science,Kanban,Distributed computing,Microservice architecture,Degree,CAN,Communication skills",
+Cloud Engineer II,Jamf,DevOps,1,Mid,12500,18500,"Python,Linux,Shell,AWS,AWS EC2,Amazon RDS,AWS Lambda,API,Gateway,AWS DynamoDB,Golang,Infrastructure as Code,CloudFormation,Terraform,Kubernetes,Git,Ansible,Progress Chef,Puppet,Jira,Salesforce,CI,CD tools,Jenkins,GitHub,RHCE",
+Senior Data Scientist,GOG,Data,0,Senior,20000,30000,"Python,Machine Learing,API,BigQuery,Data structures,Design Patterns","Docker,Kubernetes,Golang,Microservice architecture,Performance tuning,Web applications"
+Senior Software Engineer in Test (Python),XM,Testing,1,Senior,14404,23407,"Python,API,REST API,Git,BSc","Quality assurance,Multithreading,Grafana,Docker,Prometheus"
+Senior Data Engineer,Sunscrapers,Data,1,Senior,27000,34000,"Python,ETL,Airflow,SQL,Communication skills,Google Cloud Platform,Snowflake,BI,Affinity CRM","BigQuery,Data visualization,Looker,Tableau,PowerBI,Salesforce"
+DevOps Manager,Cere Network,DevOps,0,Expert,28000,40000,"Python,AWS,Go,Terraform,Bash,Degree,DevOps,Azure,Google Cloud,Cloud platform,Amazon EKS,Route53,Amazon RDS,Networking,IaaC,Docker,Grafana,Prometheus,Sentry,Datadog,Communication skills",WEB 3.0.
 Senior Penetration Tester (Remote),Hyland,Security,1,Senior,17000,25000,"OWASP,SSDLC","critical thinking,Cooperation skills,Communication skills,C,C++,C#,JavaScript"
 Junior Devops,Lotnicze Pogotowie Ratunkowe,DevOps,0,Junior,7000,12000,"DevOps,CI/CD,Docker,Kubernetes,Grafana,WildFly,REST API,YouTrack,GitLab,Prometheus,Elasticsearch,Git,Java","SQL,PostgreSQL,Redis,MongoDB,Oracle DB,Python,Java,JBoss"
 Junior Linux Administrator,Akademia Górniczo-Hutnicza,Sys. Administrator,0,Junior,7000,10000,"Linux,Virtualization,Bash,Git,Ansible,Docker,VMware","Python,GitLab,Bitbucket,Fortinet"
 Junior Oracle Database Developer,DataFuze,Data,0,Junior,7560,11088,"SQL,PL/SQL,Oracle,Relational database","Apex,Airflow,ETL,Python"
 Embedded Systems Tester/QA Engineer,AIUT,Embedded,0,Mid,7800,10800,"C++,C,C#","SQL,Python"
 Administrator Systemów Linux,Unity-T Group,Sys. Administrator,0,Mid,10000,15000,"Linux,RHEL,CentOS,TCP,IP,Postfix,Dovecot,Tomcat,HTTPD,Nginx,HAProxy,Bash,Python","PostgreSQL,MySQL,Citrix Systems,Samba,OpenLDAP,MongoDB,Gradle,Squid,Puppet,Ansible"
-Quantitative Research Analyst,Chorus One,Business Analysis,1,Mid,30255,36979,"Protocols,Quantitative research,Blockchain,Data analysis,Ethereum,Python,SQL,Golang,Rust,Crypto",
-"Senior Software Engineer, Partner Integrations",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java","Java,Node.js,React.js,Kubernetes,PHP"
-Senior Data Analyst,RTB House,Data,1,Senior,20000,30000,"SQL,Data analysis,Forecasting,Python,Communication skills","Google Cloud Platform,BigQuery,ad-tech industry experience"
-Ruby / Ruby on Rails - Backend Engineer,Knowde,Backend,1,Senior,18000,25000,"Ruby,Ruby on Rails,SQL,Web service","Elasticsearch,AWS,Python,Golang"
-Senior Go Developer Remote,Superdevs,Backend,1,Senior,25200,30240,"Golang,Python,Kubernetes","Security,MQTT,Open API,Protobuf"
 Tier 3 Support Engineer,Codete,Other IT,1,Mid,16800,20160,"Communication skills,Docker,Kubernetes,Java,Python,Operating system,Networking,Protocols,Cloud",
 ETF Data and Quant Analyst,ETFbook,Business Analysis,1,Junior,7500,12000,"Data analytics,Python","Python,Finance"
-Staff ML Research Lead,RTB House,Project Manager,1,Expert,46000,62000,"Team management,Python,Machine Learning Model Operationalization Management",
-Azure DevOps,Omada,DevOps,0,Mid,19320,21840,"Azure DevOps,Azure,Public cloud,DevOps,Cloud,Kubernetes,Docker,Terraform,Jenkins,Puppet,Windows Server,SQL,PowerShell,CLI,Python","API Gateway,Network management,GitHub"
-Data Engineer (Expert),VirtusLab,Data,1,Expert,26000,31000,"SQL,Snowflake or any DWH solution,Data modeling,Python or any modern language,Airflow or any cloud-based orchestrator,AWS/GCP,dbt",Terraform
-Cloud DevSecOps Engineer - Team Lead,Motorola Solutions Systems Polska,Security,0,Expert,22000,30000,"Cloud platform,SaaS,AWS,Azure,GCP,WAF,IPS,Cloud security,NIST,GDPR,ISO,Linux,Shell,PowerShell,Python,Elasticsearch,Kubernetes,Docker,Prisma,CIS",
-Networking Software Engineer (Mid/Senior),Akamai Technologies,Backend,0,Mid,12000,24000,"C++,C,Linux,Networking,DevOps,Jenkins","Python,Golang,Docker"
+Ruby / Ruby on Rails - Backend Engineer,Knowde,Backend,1,Senior,18000,25000,"Ruby,Ruby on Rails,SQL,Web service","Elasticsearch,AWS,Python,Golang"
+"Senior Software Engineer, Partner Integrations",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java","Java,Node.js,React.js,Kubernetes,PHP"
+Senior Data Analyst,RTB House,Data,1,Senior,20000,30000,"SQL,Data analysis,Forecasting,Python,Communication skills","Google Cloud Platform,BigQuery,ad-tech industry experience"
+Quantitative Research Analyst,Chorus One,Business Analysis,1,Mid,30255,36979,"Protocols,Quantitative research,Blockchain,Data analysis,Ethereum,Python,SQL,Golang,Rust,Crypto",
+Senior Go Developer Remote,Superdevs,Backend,1,Senior,25200,30240,"Golang,Python,Kubernetes","Security,MQTT,Open API,Protobuf"
 Senior QA Automation Engineer,Travelplanet.pl SA (Invia Group),Testing,0,Senior,18000,23000,"QA,Automated testing,Degree,Test automation,Python,Java,JavaScript,Testing,Cypress,Selenium","Git,Web applications,ISTQB"
-Senior IT Support Engineer,MANGOPAY,IT Support,0,Senior,20000,25000,"Okta,Google suite,Microsoft 365,Azure Active Directory,Slack,Atlassian products",
+Azure DevOps,Omada,DevOps,0,Mid,19320,21840,"Azure DevOps,Azure,Public cloud,DevOps,Cloud,Kubernetes,Docker,Terraform,Jenkins,Puppet,Windows Server,SQL,PowerShell,CLI,Python","API Gateway,Network management,GitHub"
+Staff ML Research Lead,RTB House,Project Manager,1,Expert,46000,62000,"Team management,Python,Machine Learning Model Operationalization Management",
+Data Engineer (Expert),VirtusLab,Data,1,Expert,26000,31000,"SQL,Snowflake or any DWH solution,Data modeling,Python or any modern language,Airflow or any cloud-based orchestrator,AWS/GCP,dbt",Terraform
 Cloud Architect (Infrastructure),Elitmind,Architecture,1,Senior,24024,31920,"Cloud Architecture,DevOps,Docker,Kubernetes,Python,Storage,Networking,Cloud Native,Public cloud,Azure,High availability,Continuous integration,Scripting language,Continuous deployment,CD","Azure,Ruby,PowerShell,CAF,SQL,Microsoft Certification,Microsoft Azure,IAM,Azure DevOps"
-Senior Data Analyst - Remote,Infogain Technologies Sp. z o.o.,Business Analysis,1,Senior,21840,26880,"SQL,Data management,Degree","Python,MySQL"
-Administrator IT - Systemy Linux i Wirtualizacja,WASKO S.A.,Sys. Administrator,0,Mid,8000,15000,"Linux,RHEL,Oracle,Ansible,Bash,Python","Kubernetes,Elasticsearch,HashiCorp Vault,Grafana,Kibana,Prometheus,RHCSA,RHCE"
-Junior DevOps Engineer,Appstronauts,DevOps,1,Junior,8400,11760,"GitLab,CI CD,Docker,Kubernetes,Infrastructure as Code,Terraform,Ansible,Prometheus,Grafana,ELK Stack,Cloud computing,AWS,Azure,GCP,Scripting language,Python,Bash,SAST,DAST,OWASP,Azure DevOps","Red Hat Certified Engineer,HashiCorp"
-Machine Learning Developer,Daily Dose of Beauty sp. z .o.o.,AI,1,Senior,17000,20000,"C++,Python","TensorFlow,PyTorch"
+Networking Software Engineer (Mid/Senior),Akamai Technologies,Backend,0,Mid,12000,24000,"C++,C,Linux,Networking,DevOps,Jenkins","Python,Golang,Docker"
 Linux administrator,Ośrodek Przetwarzania Informacji - PIB,DevOps,0,Mid,10000,15000,"DevOps,Git,CI/CD,Docker,Kubernetes,Linux,CentOS,VMware vSphere,Perl,Python,Ansible,Salt,MongoDB","Zabbix,Prometheus,Graylog,Elasticsearch,Grafana,AWS S3,Keycloak"
-Remote Software Engineer - Ruby on Rails,Kellton Europe,Backend,1,Mid,18000,22000,"Ruby on Rails,JavaScript,Web API,CI/CD,REST API","Git,GitHub,Python,Django,Sass,GraphQL"
-Senior Software Developer,HSBC Technology Poland,Fullstack,0,Senior,23000,28000,".NET CORE,C#,Web Api,SQL Server,T-SQL,Git,Shell,Python,Data engineering,ETL,Data modelling,Quality assurance,DevOps,Continuous integration,Continous delivery",
+Administrator IT - Systemy Linux i Wirtualizacja,WASKO S.A.,Sys. Administrator,0,Mid,8000,15000,"Linux,RHEL,Oracle,Ansible,Bash,Python","Kubernetes,Elasticsearch,HashiCorp Vault,Grafana,Kibana,Prometheus,RHCSA,RHCE"
+Machine Learning Developer,Daily Dose of Beauty sp. z .o.o.,AI,1,Senior,17000,20000,"C++,Python","TensorFlow,PyTorch"
+Junior DevOps Engineer,Appstronauts,DevOps,1,Junior,8400,11760,"GitLab,CI CD,Docker,Kubernetes,Infrastructure as Code,Terraform,Ansible,Prometheus,Grafana,ELK Stack,Cloud computing,AWS,Azure,GCP,Scripting language,Python,Bash,SAST,DAST,OWASP,Azure DevOps","Red Hat Certified Engineer,HashiCorp"
+Cloud DevSecOps Engineer - Team Lead,Motorola Solutions Systems Polska,Security,0,Expert,22000,30000,"Cloud platform,SaaS,AWS,Azure,GCP,WAF,IPS,Cloud security,NIST,GDPR,ISO,Linux,Shell,PowerShell,Python,Elasticsearch,Kubernetes,Docker,Prisma,CIS",
+Senior IT Support Engineer,MANGOPAY,IT Support,0,Senior,20000,25000,"Okta,Google suite,Microsoft 365,Azure Active Directory,Slack,Atlassian products",
+Senior Data Analyst - Remote,Infogain Technologies Sp. z o.o.,Business Analysis,1,Senior,21840,26880,"SQL,Data management,Degree","Python,MySQL"
 Intern IT Engineer (Asset Management),VML Enterprise Solutions,IT Support,0,Trainee,5040,5544,"Windows,Linux,Relational database,Bash,PowerShell,Python,Version control system,Network protocols,Analytical skills,Git,Communication skills",
+Software Developer,HSBC Technology Poland,Backend,0,Senior,20000,25000,".NET CORE,C#,Web Api,SQL,T-SQL,Shell,Git,Python,Data engineering,ETL,Data modelling,Quality assurance,DevOps,Continuous integration,Continous delivery,.NET",
+Senior Software Engineer,Transition Technologies PSC S.A.,Backend,1,Senior,20160,25200,"C++,GitHub,Jenkins,C,CD,Analytical skills","CLI,MySQL,RabbitMQ,CI/CD,Python,Bash,AWS,Azure,GCP,Protocols,C#,OSI,Java,Network protocols"
+Senior Software Developer,HSBC Technology Poland,Fullstack,0,Senior,23000,28000,".NET CORE,C#,Web Api,SQL Server,T-SQL,Git,Shell,Python,Data engineering,ETL,Data modelling,Quality assurance,DevOps,Continuous integration,Continous delivery",
+Remote Software Engineer - Ruby on Rails,Kellton Europe,Backend,1,Mid,18000,22000,"Ruby on Rails,JavaScript,Web API,CI/CD,REST API","Git,GitHub,Python,Django,Sass,GraphQL"
 C++ Embedded Developer (Autosar | Automotive),1dea,Embedded,1,Senior,24360,27720,"C++,QNX OS,BSPs","AUTOSAR,Linux,RTOS,Python"
 DevOps Engineer,NetworkedAssets Sp. z o.o.,DevOps,0,Mid,13000,22000,"AWS,CI/CD,Terraform,Ansible,Linux,Python,Kubernetes",TypeScript
 Senior Software Engineer (Data Experience),hyperexponential,Backend,0,Senior,27000,33000,"Amazon Web Services,Functional programming,Rust","AWS,Cloud,Rust,Scala,Terraform,CI/CD,Python,Golang,ETL,Spark,Airflow,GCP,Kotlin"
-Software Developer,HSBC Technology Poland,Backend,0,Senior,20000,25000,".NET CORE,C#,Web Api,SQL,T-SQL,Shell,Git,Python,Data engineering,ETL,Data modelling,Quality assurance,DevOps,Continuous integration,Continous delivery,.NET",
-Senior Software Engineer,Transition Technologies PSC S.A.,Backend,1,Senior,20160,25200,"C++,GitHub,Jenkins,C,CD,Analytical skills","CLI,MySQL,RabbitMQ,CI/CD,Python,Bash,AWS,Azure,GCP,Protocols,C#,OSI,Java,Network protocols"
-Storage Engineer,Object First,Sys. Administrator,1,Mid,11000,15600,"VMware vSphere,Storage,SAN,NAS,Ubuntu Server,Bash,PowerShell,RAID","mdadm,Veeam Backup & Replication.,Python,pytest,Amazon S3,AWS CLI,Hyper-V, KVM skills,CI/CD (TeamCity/Jenkins)"
+Lead Robotics Developer,SoftServe,Robotics,1,Senior,20000,30000,"C++,Python,MATLAB,Simulink,Gazebo,Unix,Linux,Continuous integration,Communication skills",
 Senior Test Automation Engineer (Robotics),SoftServe,Robotics,0,Senior,18000,26000,"Quality assurance,C++,Python,ROS,Analytical skills","Gazebo,LiDAR,SLAM,IMU"
+DevOps Engineer (GCP),Connectis_,DevOps,0,Mid,18000,26500,"GCP,DevOps,Elastic Stack,Prometheus,Grafana,Kibana,GitLab,Docker,Kubernetes,Google Cloud Platform,Linux,CI/CD","Oracle,MySQL,PostgreSQL,MongoDB,RabbitMQ,Python"
 Big Data Engineer IV,OpenX,Backend,1,Senior,30240,34944,"Scala,Cloud,Kubernetes,Java","Docker,Spark,Jenkins,Hadoop,Data engineering,Python"
 Senior Golang Engineer,N-iX,Backend,1,Senior,17750,26625,"Golang,Docker,Kubernetes,Cloud Native","Python,Open source,Data science,MLOps"
-Lead Data Architect- Market Analytics,Digital Hub Warsaw at Bayer,Data,0,Senior,24000,34000,"Degree,Market analytics,Use cases,Analytical skills,Communication skills","Databricks,Snowflake,Azure Data Factory,Azure Data Lake,Python,SAP,HANA,ETL,SQL,Cloud computing,Data management"
-DevOps Engineer (GCP),Connectis_,DevOps,0,Mid,18000,26500,"GCP,DevOps,Elastic Stack,Prometheus,Grafana,Kibana,GitLab,Docker,Kubernetes,Google Cloud Platform,Linux,CI/CD","Oracle,MySQL,PostgreSQL,MongoDB,RabbitMQ,Python"
 Senior Data Engineer (Azure),GetInData | Part of Xebia,Data,1,Senior,26880,33600,"Python,Databricks,Kafka,Git,Airflow,Docker,Terraform,CI/CD,Microsoft Azure,Azure DevOps",
-Lead Robotics Developer,SoftServe,Robotics,1,Senior,20000,30000,"C++,Python,MATLAB,Simulink,Gazebo,Unix,Linux,Continuous integration,Communication skills",
-ETL / PowerBI / Data Engineer - Remote,Sofomo,Data,1,Mid,14000,18000,"PowerBI,ETL,SQL,Azure","Python,Data engineering"
+Storage Engineer,Object First,Sys. Administrator,1,Mid,11000,15600,"VMware vSphere,Storage,SAN,NAS,Ubuntu Server,Bash,PowerShell,RAID","mdadm,Veeam Backup & Replication.,Python,pytest,Amazon S3,AWS CLI,Hyper-V, KVM skills,CI/CD (TeamCity/Jenkins)"
+Lead Data Architect- Market Analytics,Digital Hub Warsaw at Bayer,Data,0,Senior,24000,34000,"Degree,Market analytics,Use cases,Analytical skills,Communication skills","Databricks,Snowflake,Azure Data Factory,Azure Data Lake,Python,SAP,HANA,ETL,SQL,Cloud computing,Data management"
+Security Tooling Engineer II,Box Inc.,Security,0,Mid,14500,17700,"2-3 years experience,Cloud platform",InfoSec field
 Embedded Software Developer,AIUT,Embedded,0,Mid,10200,14400,"C++,C,Git","Linux,Confluence,Jira,Azure,Python"
 Senior Software Engineer in Test (Backend),Snowflake,Testing,0,Senior,30000,60000,"Python,Java,C++,Test automation,Continuous integration,Git,Continuous deployment,Jenkins,SQL",Docker
-Site Reliability Engineer,OpenX,DevOps,0,Mid,20664,22680,"Cloud,Kubernetes,Terraform,Docker,Linux,CI/CD,Google Cloud Platform,Git,Virtualization,On-calls,GCP,AWS","Spinnaker,Grafana,Prometheus,Python,Golang"
-BI Developer,Margo Consulting Sp. z o.o.,Business Intelligence,0,Mid,18480,25200,"PowerBI,VBA,BI,Degree,DAX,SQL Server,T-SQL,Oracle,SSIS,SSRS,Visual Studio,Snowflake,MS Excel,Alteryx","Power BI Service,Python,Microsoft SSAS,Multi-dimension modelling"
-Security Tooling Engineer II,Box Inc.,Security,0,Mid,14500,17700,"2-3 years experience,Cloud platform",InfoSec field
-Head of IT Operations and Support,2021.AI,IT Support,1,Expert,21606,28952,"ITIL,DevOps,AI,Open source,Kubernetes,Azure,GCP,AWS,Prometheus,Operating system,Linux,Python,Docker,Ansible,Terraform,Degree,Data science,Big Data,Machine Learning",
 Staff Machine Learning Engineer,Stellantis,Data,1,Senior,20000,30000,"Data science,Machine learning,Open source,AI,MSc,MLOps,Kubeflow,AWS SageMaker,Azure,AWS","AWS,Shell,Networking,Django,Node.js,Kubernetes,Docker,PySpark,SQL"
-Junior Networking Engineer,Mindpal,Telecommunication,1,Junior,8400,11760,"TCP/IP,Ethernet,Git,Visual Studio,ISO,OSI,TCP,UDP,Protocols","C++,C,Python"
-Mid/Senior Embedded C Developer,Antal,Embedded,0,Mid,18000,25000,"C,FreeRTOS,ARM,AD,I2C,SPI,CAN,SVN,Git,PC","HTML,JavaScript,CSS,C#,Python,Django,Windows,Linux,Bluetooth,CI,MODBUS,Jenkins,Altium,TCP"
+Site Reliability Engineer,OpenX,DevOps,0,Mid,20664,22680,"Cloud,Kubernetes,Terraform,Docker,Linux,CI/CD,Google Cloud Platform,Git,Virtualization,On-calls,GCP,AWS","Spinnaker,Grafana,Prometheus,Python,Golang"
+Head of IT Operations and Support,2021.AI,IT Support,1,Expert,21606,28952,"ITIL,DevOps,AI,Open source,Kubernetes,Azure,GCP,AWS,Prometheus,Operating system,Linux,Python,Docker,Ansible,Terraform,Degree,Data science,Big Data,Machine Learning",
+BI Developer,Margo Consulting Sp. z o.o.,Business Intelligence,0,Mid,18480,25200,"PowerBI,VBA,BI,Degree,DAX,SQL Server,T-SQL,Oracle,SSIS,SSRS,Visual Studio,Snowflake,MS Excel,Alteryx","Power BI Service,Python,Microsoft SSAS,Multi-dimension modelling"
+ETL / PowerBI / Data Engineer - Remote,Sofomo,Data,1,Mid,14000,18000,"PowerBI,ETL,SQL,Azure","Python,Data engineering"
 Data Developer with SQL,Antal,Data,0,Mid,20160,25200,"SQL,Data analysis,Data management,Google Cloud Platform,Jira,Confluence,Business analysis,Communication skills","BigQuery,Data Studio,Relational database,Python,Data visualization"
 Software Engineer - Business Systems - Remote,Phorest,Backend,1,Mid,19804,27008,"Java,JVM,REST API,CI/CD,Design Patterns,SQL","Docker,AWS,Big data,Python,Kotlin,Kafka"
 Full Stack NextJS Developer,SynergyAI,Fullstack,1,Mid,14000,19000,"Next.js,React,Node.js,PostgreSQL,TypeScript,JavaScript,SQL,HTML5,CSS,REST API","Express,Docker,MongoDB,Go,Python,Solidity"
+Junior Networking Engineer,Mindpal,Telecommunication,1,Junior,8400,11760,"TCP/IP,Ethernet,Git,Visual Studio,ISO,OSI,TCP,UDP,Protocols","C++,C,Python"
 Junior Embedded Developer with C,Cognitum Services SA,Embedded,1,Junior,9072,11928,"C,Python,ARM",
 Data Scientist,Shelf,Data,1,Senior,24204,32272,"AI,Data analytics,NLP,Python,SQL,NoSQL,TensorFlow,PyTorch,PhD,Machine learning,Machine Learning,GitHub","Degree,Amazon ML Services,autonomous agents development"
+Mid/Senior Embedded C Developer,Antal,Embedded,0,Mid,18000,25000,"C,FreeRTOS,ARM,AD,I2C,SPI,CAN,SVN,Git,PC","HTML,JavaScript,CSS,C#,Python,Django,Windows,Linux,Bluetooth,CI,MODBUS,Jenkins,Altium,TCP"
 Inżynier ds. Weryfikacji Systemowej,Sieć Badawcza Łukasiewicz – Instytut Lotnictwa,Automation,0,Mid,7500,12000,C,"Ethernet,Python,C++,DOORS"
 Senior AI & Math CUDA (C++) Developer,Camino Science sp. z o.o.,AI,1,Senior,16000,19000,CUDA (C++),"Machine learning,Python,TensorFlow,Applied Mathematics,Dorobek Naukowy,Tworzenie Architektury AI ""from the scratch"",Łatwość w automatyzacji,Doktorat z matematyki stosowanej,PhD"
-Senior Linux System Engineer,Link Group,Sys. Administrator,0,Senior,26880,31920,"Linux,Red Hat,SAN,NAS,Puppet,Ansible,Python,OpenSVC","DevOps,Cloud"
 Inżynier Niezawodności,Sieć Badawcza Łukasiewicz – Instytut Lotnictwa,Mechanics,0,Mid,8000,12000,"MS Office,Excel","Python,R,VBA"
 AI & Math CUDA (C++) Developer,Camino Science sp. z o.o.,AI,1,Mid,12000,16000,CUDA (C++),"Machine learning,Python,TensorFlow,Applied Mathematics,Dorobek Naukowy,Tworzenie Architektury AI ""from the scratch"",Łatwość w automatyzacji,Doktorat z matematyki stosowanej,PhD"
 Informatica Cloud & ETL Developer (IICS),plantecs Sp. z o.o.,DevOps,1,Mid,17000,22000,"Informatica,ETL","Jira,Python,DevOps"
 Senior Data Engineer,Showpad,Data,1,Senior,22000,35000,"Data Lake,SQL,Python,ETL,dbt,Data visualization,Communication skills",
 Frontend Developer,plantecs Sp. z o.o.,Frontend,1,Senior,15000,18000,"TypeScript,HTML,CSS,UI",Python
-Java Software Engineer,Emerge Soft Sp. z o.o.,Backend,1,Mid,21500,23500,"JEE,Docker,Kubernetes,JUnit,Java,Apache Kafka","Kotlin,JavaScript,Vue.js,Node.js,Python"
 Test Engineer,UBIQUITY SERVICE,Testing,0,Junior,5500,6500,"Python,Test case,User Interface,Bluetooth,Wi-Fi,BSD,ELK Stack,Wireless,Driver's license,Communication skills,Android",
 Frontend Developer (with Vue),AVENGA,Frontend,1,Senior,20160,23520,"Vue.js,Nuxt.js,TypeScript,JavaScript,HTML,CSS,REST API","Python,PostgreSQL"
 Cross Digitalization Specialist (MS PowerPlatform),ZF Group,Business Intelligence,1,Mid,10000,15000,"Degree,Power Platform,Power Automate","BI,Python,R"
-Senior/Lead DevOps/System Administrator,GFT Poland,DevOps,0,Senior,20800,35280,"Linux,Unix,Windows,Scripting language,Bash,Python,C++,Networking,Storage","Git,Maven,TeamCity,Jenkins,Artifactory,Jira,Cloud,Google cloud"
-Data Engineer (GCP),Connectis_,Data,0,Senior,26000,31000,"GCP,Machine learning,AI,Python,SQL",
 Devops/Release Engineer,Reply Polska,DevOps,0,Senior,23520,33600,"Openshift,Azure Cloud,Kubernetes,Docker,AKS,Istio,Bash,Python,PowerShell,Ansible,Terraform,TLS,LDAP,OAuth,Spring Boot,Git,Azure DevOps,CI,CD tools,Maven,SonarQube,Jenkins",
-Senior Software Engineer - Developer Experience,Snowflake,Backend,0,Senior,30000,60000,Golang,"Python,C++,Java"
-Technical Support,Quod Financial,IT Support,0,Trainee,4034,8068,"Linux,SQL,PostgreSQL,MySQL,Perl,Python,Bash,CAN,Confluence,Jira,Kibana",
+Senior/Lead DevOps/System Administrator,GFT Poland,DevOps,0,Senior,20800,35280,"Linux,Unix,Windows,Scripting language,Bash,Python,C++,Networking,Storage","Git,Maven,TeamCity,Jenkins,Artifactory,Jira,Cloud,Google cloud"
+Senior Linux System Engineer,Link Group,Sys. Administrator,0,Senior,26880,31920,"Linux,Red Hat,SAN,NAS,Puppet,Ansible,Python,OpenSVC","DevOps,Cloud"
+Java Software Engineer,Emerge Soft Sp. z o.o.,Backend,1,Mid,21500,23500,"JEE,Docker,Kubernetes,JUnit,Java,Apache Kafka","Kotlin,JavaScript,Vue.js,Node.js,Python"
 Senior Software Engineer - Cloud Engineering,Snowflake,Data,0,Senior,40000,80000,"Go,Cloud computing,Container,Terraform","AWS,Azure,GCP,Java,Python,C,Pulumi"
-DevOps Engineer,Avenga,DevOps,1,Mid,15120,21840,"Kubernetes,Terraform,Python,GCP,Jenkins,CI",
+Senior Software Engineer - Developer Experience,Snowflake,Backend,0,Senior,30000,60000,Golang,"Python,C++,Java"
 Remote Software Architect  - Senior,Link Group,Architecture,1,Senior,31920,33600,"Web,Android,iOS,MVC,MVVM,Web development,Angular,Ruby on Rails,ASP.net","Project management,Scrum,SAFe,Java,C++,c#,Python,PHP,Jenkins,Puppet,Ansible,Terraform"
+Data Engineer (GCP),Connectis_,Data,0,Senior,26000,31000,"GCP,Machine learning,AI,Python,SQL",
 Technical Lead (Backend Development),itCraft,Backend,1,Expert,27224,30249,"Azure,NoSQL,SQL,IaaC,Microservices",
-AWS DevOps/Linux Engineer,ComScore (via CC),DevOps,1,Mid,12000,18000,"Linux,Git,Bash,HTTP","Docker,Python,AWS,Terraform,Kubernetes,Cassandra,Elasticsearch"
+Technical Support,Quod Financial,IT Support,0,Trainee,4034,8068,"Linux,SQL,PostgreSQL,MySQL,Perl,Python,Bash,CAN,Confluence,Jira,Kibana",
+Senior Analytics Engineer (Looker),GetInData | Part of Xebia,Data,1,Senior,21840,30240,"Looker,Python,BI tools,GCP,Spark",
 Data Engineer,SEB (Skandinaviska Enskilda Banken),Data,0,Mid,28000,32000,"CI/CD,Spark,Container","GCP,Scala,Java,Python,Spark,Kubernetes,Kafka,OpenShift,GitHub Actions,Cloud,Airflow"
-Data Solution Developer,Acxiom GSC Polska Sp. z o.o.,Data,1,Junior,9500,17000,"SQL,MySQL,AWS",
-Remote Pentester - Penetration tester,LogicalTrust,Security,1,Mid,8000,14500,"web applications,Security,Linux,Cybersecurity,Cryptography,Cloud security,Operating system,mobile applications,network,OWASP","Kubernetes,Python,Windows,OSCP,Kerberos"
-Kotlin & Java Software Engineer,hyperexponential,Backend,0,Mid,20000,25000,"Java,Kotlin","AWS,Cloud,Hibernate,Spring,Spring Framework"
 Junior DevOps Engineer,Apius Technologies S.A.,DevOps,0,Junior,7000,9000,"Linux,Unix,DevOps,GitLab,Docker,Bash,Terraform,Ansible","Kubernetes,AWS,Azure,Grafana,Prometheus,Zabbix,Gitlab CI/CD"
 Application Security Tooling Engineer III,Box Inc.,Security,0,Mid,20500,25500,"DevSecOps Experience,Security tools,OWASP knowledge,Frontend/API focus,Application security",
-Senior Analytics Engineer (Looker),GetInData | Part of Xebia,Data,1,Senior,21840,30240,"Looker,Python,BI tools,GCP,Spark",
-Staff Data Steward,Digital Hub Warsaw at Bayer,Data,0,Senior,18000,28000,"SQL,NoSQL,Python,ETL,Cloud,Kafka,REST API,GraphQL,gRPC",Google cloud platform
+Kotlin & Java Software Engineer,hyperexponential,Backend,0,Mid,20000,25000,"Java,Kotlin","AWS,Cloud,Hibernate,Spring,Spring Framework"
+Data Solution Developer,Acxiom GSC Polska Sp. z o.o.,Data,1,Junior,9500,17000,"SQL,MySQL,AWS",
+AWS DevOps/Linux Engineer,ComScore (via CC),DevOps,1,Mid,12000,18000,"Linux,Git,Bash,HTTP","Docker,Python,AWS,Terraform,Kubernetes,Cassandra,Elasticsearch"
+DevOps Engineer,Avenga,DevOps,1,Mid,15120,21840,"Kubernetes,Terraform,Python,GCP,Jenkins,CI",
 C++ Software Developer,Intergraph Polska Sp. z o.o.,Backend,0,Senior,18000,28000,"C++,Design Patterns,Clean Architecture,Clean Code","OpenCV,Conan.io,Python,CI/CD,CMake,STL,Git"
-Wordpress Developer,Woo Agency,Fullstack,0,Mid,8000,11000,"WordPress,HTML5,PHP,JS,CSS,acf,gutenberg blocks,xd,Figma,Photoshop,WooCommerce,JavaScript","React,Python"
-Software Engineer - Data Platforms (Expert),VirtusLab,Data,1,Expert,26000,31000,"Big Data,Beam,Spark,SQL,Kubernetes,AWS,GCP,CI/CD,Java/Scala/Python,Java","Kafka,Airflow,BigQuery,Graph database,Vector database,HBase,Presto"
-Senior Power Platform Developer,Avanade Poland,Business Analysis,1,Senior,25200,31920,"Power Platform,D365,SharePoint,Web development","Microsoft Azure,DevOps,C#,Python,Power BI,JavaScript"
+Staff Data Steward,Digital Hub Warsaw at Bayer,Data,0,Senior,18000,28000,"SQL,NoSQL,Python,ETL,Cloud,Kafka,REST API,GraphQL,gRPC",Google cloud platform
 "Senior Software Engineer, Desktop Applications",Box Inc.,Backend,0,Senior,30000,35000,"C++,C#,5 years of experience","Python,Objective-C"
-"Senior Software Engineer, Relay",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java,web development framework","PHP,Python,public cloud systems,messaging infrastructure,open source project"
+Remote Pentester - Penetration tester,LogicalTrust,Security,1,Mid,8000,14500,"web applications,Security,Linux,Cybersecurity,Cryptography,Cloud security,Operating system,mobile applications,network,OWASP","Kubernetes,Python,Windows,OSCP,Kerberos"
+Software Engineer - Data Platforms (Expert),VirtusLab,Data,1,Expert,26000,31000,"Big Data,Beam,Spark,SQL,Kubernetes,AWS,GCP,CI/CD,Java/Scala/Python,Java","Kafka,Airflow,BigQuery,Graph database,Vector database,HBase,Presto"
+Wordpress Developer,Woo Agency,Fullstack,0,Mid,8000,11000,"WordPress,HTML5,PHP,JS,CSS,acf,gutenberg blocks,xd,Figma,Photoshop,WooCommerce,JavaScript","React,Python"
+Senior Power Platform Developer,Avanade Poland,Business Analysis,1,Senior,25200,31920,"Power Platform,D365,SharePoint,Web development","Microsoft Azure,DevOps,C#,Python,Power BI,JavaScript"
 Senior Data Engineer,Inter Cars S.A.,Data,1,Senior,23000,28000,"Degree,Data engineering,ETL,Data modeling,Python,Java,Scala,Big data,Hadoop,Spark,Storage,Relational database,SQL,HBase,Hive,Azure,GCP,Airflow,Kafka",
 Data Platform Engineer/Consultant - Team Leader,Elitmind,Data,1,Mid,17976,24024,"SQL Server,SSIS,ETL,Data warehouse,Team management,SQL","Python,Snowflake,Databricks,Azure"
-Network Security Engineer,Link Group,Security,0,Mid,25200,28560,"Network Security,TCP,DNS,VPN,IPS,Splunk,NIST,Cisco,Fortinet,Palo Alto",CISSP
 JavaScript FullStack Developer,OEX Voice Contact Center,Fullstack,1,Mid,9000,10750,"JavaScript,Vue.js,React,CSS,Tailwind,Python,Bash,Git,Linux,Docker,Ch",
 Principal Software Engineer (Java / Kotlin/ AAOSP),HERE Technologies,Backend,1,Expert,33600,42000,"Java,Kotlin,Android","Problem solving,AWS,ECS,AWS ECS,AWS EC2,AWS S3,Amazon RDS,Virtualization,Docker,Python,C++,AOSP"
+Network Security Engineer,Link Group,Security,0,Mid,25200,28560,"Network Security,TCP,DNS,VPN,IPS,Splunk,NIST,Cisco,Fortinet,Palo Alto",CISSP
 Senior Software Engineer (Telco Industry),Emerge Soft Sp. z o.o.,Telecommunication,1,Senior,25000,27000,"C,C++,SIP","Python,Unix,Linux,Analytical skills,Kamaiilio"
+"Senior Software Engineer, Relay",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java,web development framework","PHP,Python,public cloud systems,messaging infrastructure,open source project"
 Remote Fullstack Developer,Gett,Fullstack,1,Senior,25818,27431,"backend language experience,server-side application experience,database design,Node.js,React,SPA,Redux,Golang","Golang,MySQL,HTML,CSS,Ruby"
+Senior Data Engineer (1295),N-iX,Data,1,Senior,15329,23397,"Docker,Kubernetes,Cloud Native,Python,Data engineering,ETL,Kafka,Kinesis,Spark,Scala,TypeScript,Java","Open source,Data science,MLOps,Kotlin,GCP,AWS,Azure,MSSQL,Terraform"
 Remote Golang Developer,Antal,Backend,1,Mid,25200,30240,Golang,
 Junior Quadient Integrator,Quertum,Fullstack,0,Junior,6000,7000,"XML,Java","JavaScript,Python,Ruby,Quadient"
-Senior Data Engineer (1295),N-iX,Data,1,Senior,15329,23397,"Docker,Kubernetes,Cloud Native,Python,Data engineering,ETL,Kafka,Kinesis,Spark,Scala,TypeScript,Java","Open source,Data science,MLOps,Kotlin,GCP,AWS,Azure,MSSQL,Terraform"
-Data Platform Engineer/Consultant,Elitmind,Business Intelligence,1,Mid,13944,19992,"English,SQL,ETL,Azure","Databricks,Snowflake,Python,Data Modelling skills"
-DevOps Engineer,Raiffeisen Tech,DevOps,0,Mid,23100,31500,"DevOps,Docker,Kubernetes,AWS,Networking,Load balancing,Python,CI/CD","Git,Java"
-DevOps Team Leader - AWS - Remote,Link Group,DevOps,1,Senior,30000,32000,"DevOps,AWS,Communication skills,Analytical skills,Agile,SRE,Kubernetes,Terraform,CI/CD,GitHub Actions,Concourse CI,Jenkins,CircleCI,Linux,Scripting language,Bash,Python,Network protocols",
-Senior DevOps Engineer - AWS - Remote,Link Group,DevOps,1,Senior,26800,28500,"AWS,Kubernetes,Go, Ruby, Python, Erlang, or Java,Linux,Infrastructure as Code,Terraform,Microservices,Communication skills",
 Remote Embedded C/C++ Developer,int2code GmbH,Embedded,1,Mid,20160,33600,"Linux,Git,Embedded,C/C++,RTOS,C","Automotive,QNX,Docker,Yocto,Python,AUTOSAR,Bazel,LDRA,UDS,SPICE"
-Mid Manual Tester,Focal Systems,Testing,1,Mid,12000,16000,"SQL,Product development,Data science,Product design,User research,Test case,QA,Web applications,Jira,Communication skills,API,Postman","Python,Linux,Bash,Version control system,GitHub"
-Technical Account Manager New Products,RTB House,Other IT,1,Mid,10000,13000,"HTML,JavaScript,Python,Excel,Google Analytics,Communication skills",
-Senior Test Automation Engineer IV,OpenX,Testing,1,Senior,27888,32088,"Test automation,CI,CD tools,Spinnaker,Jenkins,Python,Java,cloud,Backend","Cypress,UI testing,GCP,Kubernetes,Docker"
+DevOps Team Leader - AWS - Remote,Link Group,DevOps,1,Senior,30000,32000,"DevOps,AWS,Communication skills,Analytical skills,Agile,SRE,Kubernetes,Terraform,CI/CD,GitHub Actions,Concourse CI,Jenkins,CircleCI,Linux,Scripting language,Bash,Python,Network protocols",
+DevOps Engineer,Raiffeisen Tech,DevOps,0,Mid,23100,31500,"DevOps,Docker,Kubernetes,AWS,Networking,Load balancing,Python,CI/CD","Git,Java"
+Data Platform Engineer/Consultant,Elitmind,Business Intelligence,1,Mid,13944,19992,"English,SQL,ETL,Azure","Databricks,Snowflake,Python,Data Modelling skills"
 Senior BigData Developer,ITDS,Data,0,Senior,16800,25200,"Big Data,Data warehouses,Data management,Python,Scala,Java,Hive,Kudu,HBase,Agile,Kafka,Apache Nifi,Ansible",Kubeflow
+Senior Test Automation Engineer IV,OpenX,Testing,1,Senior,27888,32088,"Test automation,CI,CD tools,Spinnaker,Jenkins,Python,Java,cloud,Backend","Cypress,UI testing,GCP,Kubernetes,Docker"
+Senior DevOps Engineer - AWS - Remote,Link Group,DevOps,1,Senior,26800,28500,"AWS,Kubernetes,Go, Ruby, Python, Erlang, or Java,Linux,Infrastructure as Code,Terraform,Microservices,Communication skills",
+Mid Manual Tester,Focal Systems,Testing,1,Mid,12000,16000,"SQL,Product development,Data science,Product design,User research,Test case,QA,Web applications,Jira,Communication skills,API,Postman","Python,Linux,Bash,Version control system,GitHub"
+Senior Data Analyst,hubQuest,Data,1,Senior,20000,26000,"SQL,Power BI / Tableau,Python / R,Data analysis",
 Senior Engineering Manager - DevOps,RTB House,DevOps,1,Senior,40000,47000,"DevOps,GCP,Kubernetes,GitHub,Gerrit,Terraform,Python,Bash,Leadership skills",
 Staff Software Engineer (PHP),ShiftKey,Backend,1,Expert,23000,26000,"PHP,SQL,AWS",Python
 Senior Azure Data Engineer,Link Group,Data,1,Senior,23520,28560,"Azure Cloud,Databricks,SQL,Oracle,T-SQL,MySQL,Jira,Azure DevOps,Communication skills","Python,PySpark,Spark SQL,Business analysis"
-Senior Data Analyst,hubQuest,Data,1,Senior,20000,26000,"SQL,Power BI / Tableau,Python / R,Data analysis",
-eCRM Intern (Analityk Kampanii),They.pl,Marketing,0,Trainee,4500,5500,"MS Office,Excel,PowerPoint","HTML,CSS,SaaS,CMS,SQL,Big Data,Python,MIESI"
 DevOps Engineer,Appfire,DevOps,1,Mid,13000,18300,"DevOps,Degree,Java,Python,AWS,AWS EC2,ELB,Amazon RDS,Route53,Jenkins,Docker","Kubernetes,GCP,IaC,Terraform,Ansible,ELK Stack,Grafana"
+Technical Account Manager New Products,RTB House,Other IT,1,Mid,10000,13000,"HTML,JavaScript,Python,Excel,Google Analytics,Communication skills",
+Remote Senior Data Engineer,Varwise,Data,1,Senior,30255,40341,"Spark,AWS,Linux,NoSQL,SQL,Kafka,Java,Scala,AWS Lambda,Glue,Athena,Cassandra,Neo4j,Databricks,PySpark","Kinesis,Airflow,Jenkins,Datadog,Python,TensorFlow"
+eCRM Intern (Analityk Kampanii),They.pl,Marketing,0,Trainee,4500,5500,"MS Office,Excel,PowerPoint","HTML,CSS,SaaS,CMS,SQL,Big Data,Python,MIESI"
+Junior Fullstack Software Engineer,Beekeeper AG,Fullstack,0,Junior,11300,14250,"Java,JavaScript,TypeScript,Web technologies,Backend,Frontend","Python,Vue.js"
 Linux Developer,Hitachi Energy,Sys. Administrator,0,Senior,15000,20000,"Linux,Git,Yocto,Azure,Bash,Python,C",
 Embedded Software Engineer,JPEmbedded,Embedded,0,Mid,12000,17000,"C,C++,Python","FreeRTOS,Linux,Proactivity,Communication skills,Problem solving"
 System and Network Admin - Remote,CodiLime,Sys. Administrator,1,Mid,10500,18500,"Linux,AWS,Problem-solving skills,system administration,Network management,Communication skills","Python,Ansible,Terraform,Atlassian Stack,Jira,Confluence,Trello,Opsgenie,Zendesk,Git,PostgreSQL,Kubernetes"
-Junior Fullstack Software Engineer,Beekeeper AG,Fullstack,0,Junior,11300,14250,"Java,JavaScript,TypeScript,Web technologies,Backend,Frontend","Python,Vue.js"
+Młodszy inżynier wsparcia technicznego,ESMETRIC Group Sp. z o.o.,Telecommunication,0,Junior,6000,8000,,"OSI,Linux,Python,Wireshark,TCP/IP,Testing"
 Inżynier Infrastruktury,AVENGA,DevOps,0,Mid,18480,23520,"Linux,RHEL,SQL,PostgreSQL,Python,Kubernetes,Continuous integration,Git,Ansible",
-Remote Senior Data Engineer,Varwise,Data,1,Senior,30255,40341,"Spark,AWS,Linux,NoSQL,SQL,Kafka,Java,Scala,AWS Lambda,Glue,Athena,Cassandra,Neo4j,Databricks,PySpark","Kinesis,Airflow,Jenkins,Datadog,Python,TensorFlow"
-Senior Network Reliability Engineer,Akamai,DevOps,1,Senior,19000,20000,"Jenkins,GitHub Actions,Jenkins, Github Actions, or similar,Ansible, Salt Stack, Chef, Puppet, or si,Linux networking,Python, Bash, Go, Rust, or similar,Prometheus, Grafana, Loki, ELK",
-Senior Linux Engineer (SRE),Akamai,DevOps,1,Senior,19000,20000,"Linux,Python/Golang,Terraform/SaltStack/Ansible",
-DevOps Engineer II,Jamf,DevOps,1,Mid,14000,20000,"Jenkins,Continuous integration,ArgoCD,GitHub,Kubernetes,Amazon Web Services,Infrastructure as Code,Terraform,CloudFormation,Operating system,Linux,Forecasting,Git,Subversion,Python","Golang,Software Development Life Cycle,ELK Stack,MySQL,AWS DynamoDB"
-SysOps Engineer,Naviteq,DevOps,1,Senior,24204,28238,"k8,WebLogic,Oracle,Ansible,PowerShell,Python,Bash",
 DevOps Engineer,Sollers Consulting,DevOps,0,Mid,13550,19000,"Cloud,Kubernetes,Terraform,Jenkins","Bash,PowerShell,Python,Oracle DB,PostgreSQL,MySQL"
 Młodszy inżynier ds. wdrożeń,ESMETRIC Group Sp. z o.o.,Electrical Engineering,0,Junior,6000,8000,,"OSI,Linux,Python,SQL"
+SysOps Engineer,Naviteq,DevOps,1,Senior,24204,28238,"k8,WebLogic,Oracle,Ansible,PowerShell,Python,Bash",
 Devops/SRE- 100% remote,AVENGA,DevOps,1,Mid,21840,28560,"Kubernetes,Terraform,Jenkins,Docker,Ansible","Go,Python,GCP"
-Młodszy inżynier wsparcia technicznego,ESMETRIC Group Sp. z o.o.,Telecommunication,0,Junior,6000,8000,,"OSI,Linux,Python,Wireshark,TCP/IP,Testing"
-Backend Engineer (Java/Kotlin/AWS),Capco Poland,Backend,1,Senior,30240,31920,"Kotlin,Java,Terraform,AWS,Git,Continuous integration,Degree,Infrastructure as a Code,Communication skills",Python
+DevOps Engineer II,Jamf,DevOps,1,Mid,14000,20000,"Jenkins,Continuous integration,ArgoCD,GitHub,Kubernetes,Amazon Web Services,Infrastructure as Code,Terraform,CloudFormation,Operating system,Linux,Forecasting,Git,Subversion,Python","Golang,Software Development Life Cycle,ELK Stack,MySQL,AWS DynamoDB"
+Senior Network Reliability Engineer,Akamai,DevOps,1,Senior,19000,20000,"Jenkins,GitHub Actions,Jenkins, Github Actions, or similar,Ansible, Salt Stack, Chef, Puppet, or si,Linux networking,Python, Bash, Go, Rust, or similar,Prometheus, Grafana, Loki, ELK",
 Security Software Principal Engineer (C/C++),Dell Technologies,Backend,0,Senior,22600,27250,"C++,Linux,C,Storage","SAS,Python"
 Managed Cloud OpenShift Engineer,Nordcloud,DevOps,1,Mid,13000,20000,"OpenShift,L2,Helm Charts,Ansible,Bash,IaC,Git,RHEL,Red Hat OpenShift,IBM,Storage","CD pipeline,Networking,DevOps,SRE,Red Hat"
+Test Automation Engineer,AffiniServices Kft (Affinitext Inc),Testing,1,Senior,19886,27620,"Python,Linux,GitLab,JavaScript,Playwright,Test case,ISTQB,Kanban,Test automation","PostgreSQL,Docker,Angular,Bash,Selenium,Java"
+Senior Linux Engineer (SRE),Akamai,DevOps,1,Senior,19000,20000,"Linux,Python/Golang,Terraform/SaltStack/Ansible",
 Senior Data Engineer (GCP),GetInData | Part of Xebia,Data,1,Senior,26880,33600,"Python,SQL,BigQuery,GCP,Docker,Kubernetes,GIT,Airflow",
 Data Engineer (Spark),GetInData | Part of Xebia,Data,1,Mid,18480,26880,"Java,SQL,Spark,Python",
+Backend Engineer (Java/Kotlin/AWS),Capco Poland,Backend,1,Senior,30240,31920,"Kotlin,Java,Terraform,AWS,Git,Continuous integration,Degree,Infrastructure as a Code,Communication skills",Python
 Azure DevOps Engineer with German,Spyrosoft,DevOps,0,Senior,26880,31920,"Azure,Python,Jenkins",
 Remote Senior Embedded Developer,Conclusive Engineering Sp. z o.o.,Embedded,1,Senior,20000,30000,"C,POSIX,Git,Kernel internals,Build automation,Bare-metal","C++,Rust,Go,Python"
-Senior Data Engineer,SNI,Data,1,Senior,26880,33600,"Cloud,SQL Server,Azure Data Factory,Azure,Databricks,SQL,BI,Spark,Python,MONGO,.NET",
-Test Automation Engineer,AffiniServices Kft (Affinitext Inc),Testing,1,Senior,19886,27620,"Python,Linux,GitLab,JavaScript,Playwright,Test case,ISTQB,Kanban,Test automation","PostgreSQL,Docker,Angular,Bash,Selenium,Java"
-Senior Remote AI Engineer,Strategic Staffing Solutions,AI,1,Senior,25200,30240,"Degree,Machine learning,Open AI,Google AI,Azure AI,Python,Java",
-Senior/Lead Embedded Software Engineer,Sopra Steria Poland,Embedded,1,Senior,16800,25200,"Embedded C,Unix","Jenkins,Jira,Shell,Python,Git"
-Senior Software Engineer - Enablement / Platform,hyperexponential,Backend,0,Senior,27000,33000,Python,"AWS,Cloud,CI/CD,Golang,Rust,Docker,Sumo Logic,SonarQube,Grafana,Prometheus"
 Senior Network Implementation Engineer / Architect,Strategic Staffing Solutions,Sys. Administrator,1,Senior,20000,28000,"Degree,Juniper Networks,FortiGate,Mellanox,HPE,Cisco,Networking,Protocols,BGP,ELK Stack,Zabbix,Graylog,Network Security,IPS,WAF","CCNA,CCNP,AWS,Azure,GCP,Scripting language,Python,Ansible"
-Senior Data Scientist,SKY ENGINE AI,AI,0,Senior,20000,28000,"Computer vision,Segmentation,Machine Learning,Deep learning,Python,scikit-learn,NumPy,pandas,PyTorch,TensorFlow,Keras","MLOps,Generative AI,OpenCV,AI,Data visualization"
+Senior/Lead Embedded Software Engineer,Sopra Steria Poland,Embedded,1,Senior,16800,25200,"Embedded C,Unix","Jenkins,Jira,Shell,Python,Git"
+Senior Remote AI Engineer,Strategic Staffing Solutions,AI,1,Senior,25200,30240,"Degree,Machine learning,Open AI,Google AI,Azure AI,Python,Java",
 BI Developer/Analyst,OpenX,Business Intelligence,0,Mid,21168,25200,"BI,Analytical skills,Data modeling,Communication skills,SQL,Cloud,Visualization tools","Python,BigQuery"
+Senior Software Engineer - Enablement / Platform,hyperexponential,Backend,0,Senior,27000,33000,Python,"AWS,Cloud,CI/CD,Golang,Rust,Docker,Sumo Logic,SonarQube,Grafana,Prometheus"
+Senior Data Engineer,SNI,Data,1,Senior,26880,33600,"Cloud,SQL Server,Azure Data Factory,Azure,Databricks,SQL,BI,Spark,Python,MONGO,.NET",
+Senior Data Scientist,SKY ENGINE AI,AI,0,Senior,20000,28000,"Computer vision,Segmentation,Machine Learning,Deep learning,Python,scikit-learn,NumPy,pandas,PyTorch,TensorFlow,Keras","MLOps,Generative AI,OpenCV,AI,Data visualization"
 CG Supervisor,SKY ENGINE AI,Game Development,0,Mid,18000,20000,"Blender,Maya,Animation,Project management",Python
+Head of Pipeline,SKY ENGINE AI,Game Development,0,Mid,12000,17000,"Blender,Python,shotgrid","API,Jira,Confluence"
+DevOps Infrastructure Engineer,Adaptiq,DevOps,1,Senior,26221,27431,"Linux,k8,OCP,WebLogic,WebSphere Application Server,troubleshooting,Python,Bash script",
+Programista PLC/SCADA,ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.,Automation,0,Senior,7000,12000,"PLC Programming,HMI Programming,SCADA,WinCC,Profinet,MODBUS,Siemens,Allen-Bradley,AVEVA System Platform,Ethernet/IP,Profibus","Robotic process automation,DCS,PCS7,PlantPAx,Brewmaxx,Braumat,Botec,C#,Python,SQL"
 Network Operation Center Engineer,Ework Group,Telecommunication,0,Senior,29039,31943,"Cisco,SDA,TCP/IP,VPN,LAN, WAN,Switches,Routing,Cisco devices",
 Senior SOC Analyst,Appfire,Security,1,Senior,14000,18000,"Security,Cloud,Degree,AWS,Azure,Heroku,GCP,EDR,CIS,NIST,ISO,Communication skills,CISSP,Splunk,Python,Sumo Logic,Qradar","SentinelOne,Proofpoint"
-Head of Pipeline,SKY ENGINE AI,Game Development,0,Mid,12000,17000,"Blender,Python,shotgrid","API,Jira,Confluence"
-Remote SIEM / SOAR Automation Engineer,CodiLime,Security,1,Mid,8000,15000,"Cybersecurity,Scripting language,Python,Bash,Security,SOAR,SIEM,Automation","Palo Alto,Cortex XSIAM,Version Control System"
-Programista PLC/SCADA,ARA Przedsiębiorstwo Automatyki Przemysłowej Sp. z o.o.,Automation,0,Senior,7000,12000,"PLC Programming,HMI Programming,SCADA,WinCC,Profinet,MODBUS,Siemens,Allen-Bradley,AVEVA System Platform,Ethernet/IP,Profibus","Robotic process automation,DCS,PCS7,PlantPAx,Brewmaxx,Braumat,Botec,C#,Python,SQL"
 Senior DevOps Engineer,Mend.io,DevOps,1,Senior,30255,32272,"DevOps,AWS,Azure,infrastructure automation,Configuration management database,Container","Python,CI/CD Pipelines,Microservices,Jenkins,GitHub Actions,Terraform,ArgoCD,Helm"
-DevOps Infrastructure Engineer,Adaptiq,DevOps,1,Senior,26221,27431,"Linux,k8,OCP,WebLogic,WebSphere Application Server,troubleshooting,Python,Bash script",
+Remote SIEM / SOAR Automation Engineer,CodiLime,Security,1,Mid,8000,15000,"Cybersecurity,Scripting language,Python,Bash,Security,SOAR,SIEM,Automation","Palo Alto,Cortex XSIAM,Version Control System"
 Test Engineer,EG EXTENSA,Electronics,0,Mid,8700,9400,,"Python,NI LabView,NI TestStand,Data base,Machine Vision,Prawo jazdy"
 "Senior Backend Engineer (Platform, Scala)",Zowie,Backend,1,Senior,20000,30000,"Scala,JVM,SQL,Critical thinking,Proactivity,Relational database,Distributed systems","NoSQL,MongoDB,Functional programming,Akka,Fs2,ZIO,Cats,Http4s,GraphQL,Docker,Kubernetes,Kafka,Python"
 Senior Software Quality Engineer,Hitachi Energy,Backend,0,Senior,17000,22000,"Degree,C++,C#,Python,JavaScript,Visual Studio,Azure DevOps,Jenkins,Atlassian,SonarQube,Test automation,Google Test,Protocols,Analytical skills",
-Senior C#/.NET Developer,First Derivative,Backend,0,Senior,28560,36960,"C#,SQL Server,.NET Core,Git,SVN,.NET Framework,NUnit,Entity Framework,.NET","Python,Azure,Blob Storage"
 Mid Software / Cloud Engineer with Golang,CodiLime,Backend,1,Mid,12750,18000,"Golang,Python,AWS,GCP,Azure,Virtualization,Git,Linux,CI/CD","Rust,Terraform"
 Mid Devops Engineer with Terraform,CodiLime,DevOps,1,Mid,14000,19600,"Terraform,AWS,GCP,Azure,Golang,Python,Virtualization,Git,Linux,CI/CD",Snowflake
+Senior C#/.NET Developer,First Derivative,Backend,0,Senior,28560,36960,"C#,SQL Server,.NET Core,Git,SVN,.NET Framework,NUnit,Entity Framework,.NET","Python,Azure,Blob Storage"
+AI Engineer,Falck Digital Technology Poland,AI,0,Mid,17000,21000,"AI,LLM,Software Development Life Cycle,Relational database","Azure,Azure Cloud,Python,Node.js,React,Docker"
+Data Engineer (0.5 FTE),AVENGA,Data,1,Mid,16800,20160,"Data management,SQL,Informatica,Python",
+Back End Developer,Hitachi Energy,Backend,0,Senior,14000,19000,".NET,IoT,.NET Core,Microservices,Excel,Kubernetes,Docker,REST API,API,Linux,TDD,Azure DevOps,SQL,Git,Team work,SDLC,Degree,C#, .Net Core","Windows,TypeScript,CSS,Entity Framework,Python"
+Linux Administrator,Akademia Górniczo-Hutnicza,Sys. Administrator,0,Mid,7000,10000,"Linux,Virtualization,Bash,Git,Ansible,TCP/IP,Docker,VMware,VPN","Python,GitLab,Bitbucket,Fortinet"
+Linux Expert,Engenious,Embedded,1,Mid,26000,30240,"Linux,Yocto,Embedded,Python,Bash,C",
 Lead Big Data Engineer (AWS),SoftServe,Data,0,Expert,25000,30000,"AWS,Python,Scala,Java,SQL,Apache Spark,Databricks,Flink,MWAA,Apache Airflow,Apache Kafka,MSK,Kinesis,Amazon Redshift,Snowflake",
 Data Engineer,AVENGA,Data,1,Mid,16800,20160,"Data management,SQL,Informatica,Python",
-Linux Expert,Engenious,Embedded,1,Mid,26000,30240,"Linux,Yocto,Embedded,Python,Bash,C",
-Data Engineer (0.5 FTE),AVENGA,Data,1,Mid,16800,20160,"Data management,SQL,Informatica,Python",
-AI Engineer,Falck Digital Technology Poland,AI,0,Mid,17000,21000,"AI,LLM,Software Development Life Cycle,Relational database","Azure,Azure Cloud,Python,Node.js,React,Docker"
-Linux Administrator,Akademia Górniczo-Hutnicza,Sys. Administrator,0,Mid,7000,10000,"Linux,Virtualization,Bash,Git,Ansible,TCP/IP,Docker,VMware,VPN","Python,GitLab,Bitbucket,Fortinet"
 Senior DevOps Engineer,Hitachi Energy,DevOps,0,Senior,19000,25000,".NET,Degree,Azure DevOps,Git,PowerShell,Virtualization,Microsoft Azure,Google Cloud Platform,Linux,Windows,Bash",Python
-Back End Developer,Hitachi Energy,Backend,0,Senior,14000,19000,".NET,IoT,.NET Core,Microservices,Excel,Kubernetes,Docker,REST API,API,Linux,TDD,Azure DevOps,SQL,Git,Team work,SDLC,Degree,C#, .Net Core","Windows,TypeScript,CSS,Entity Framework,Python"
-Senior Frontend Developer,"Dunning, Kruger & Associates Sp. z o.o.",Frontend,0,Senior,21840,30240,"TypeScript,React,Redux,Git","Python,Java,Open API,RTK Query"
-Middle Fullstack Developer - 100% remote,AVENGA,Fullstack,1,Mid,20160,21840,"React,Python,Django,GraphQL,Salesforce,Communication skills",
 Junior Security Operations Engineer - Remote,7N,Security,1,Junior,20160,25200,"SIEM,OWASP,MITRE ATT&CK,NIST,Python,macOS,Unix,AWS,GCP,Kubernetes",
-Network Security Engineer (Web Proxies),Devire,Sys. Administrator,0,Senior,23520,28560,"Network Security,Gateway,Linux,Proxy,CLI,Protocols,Wireshark,TCP,CCNP,CISSP,Windows,ITIL,Jira,Kanban","Cloud security,Python,Degree"
-Senior ML Engineer (GCP),GetInData | Part of Xebia,AI,1,Senior,28560,36960,"Python,BigQuery,GCP,Vertex AI",
+Middle Fullstack Developer - 100% remote,AVENGA,Fullstack,1,Mid,20160,21840,"React,Python,Django,GraphQL,Salesforce,Communication skills",
+Senior Frontend Developer,"Dunning, Kruger & Associates Sp. z o.o.",Frontend,0,Senior,21840,30240,"TypeScript,React,Redux,Git","Python,Java,Open API,RTK Query"
 Quantitative Researcher - Blockchain,Chorus One,Data,1,Mid,36979,43702,"Quantitative research,Blockchain,Data analysis,Ethereum,Python,SQL,Golang,Rust,Crypto,Blockchain Research,PhD,Quant Research,MEV,Staking",
-Remote Java Developer (with AWS),SquareOne,Backend,1,Senior,21840,26880,"Java,Spring,AWS,Microservices","DDD,NoSQL,Python,Machine learning"
-Mid JavaScript Engineer III,OpenX,Frontend,1,Mid,23352,27552,"JavaScript,Typescript,React,Material UI,AWS","Node.js,GCP,Python,Golang"
+Network Security Engineer (Web Proxies),Devire,Sys. Administrator,0,Senior,23520,28560,"Network Security,Gateway,Linux,Proxy,CLI,Protocols,Wireshark,TCP,CCNP,CISSP,Windows,ITIL,Jira,Kanban","Cloud security,Python,Degree"
 Power Platform Solution Architect,Avanade Poland,Business Analysis,1,Expert,30240,40320,"Power Platform,D365,SharePoint,Microsoft Azure,Python,C#,Web development,JavaScript","DevOps,Power BI"
-C++ Build Engineer (Expert),VirtusLab,Backend,1,Expert,26000,31000,"C++ build engineering,C++,Bazel,Git,Scripting python / Windows/ Linux shell,Java","Java / Kotlin / Scala / Go,Premake"
-Data Engineer,Remitly Poland sp. z o.o.,Data,0,Mid,20000,23000,"AWS,Data engineering","AWS S3,Python,Scala,Golang,Hadoop,Redshift,Kinesis,SQS,SNS,Athena,BigQuery,GCP,Kubernetes,Docker,Glue"
+Senior ML Engineer (GCP),GetInData | Part of Xebia,AI,1,Senior,28560,36960,"Python,BigQuery,GCP,Vertex AI",
 Platforms Engineer,Chorus One,DevOps,1,Senior,28808,54016,"Linux,Networks,Network configuration,Kubernetes,Terraform,Salt,Ansible,Networking,CAN","Python,Golang,Rust,Degree"
-Software Development Engineer III (Java + Python),Tesco Technology,Backend,0,Senior,26000,36000,"Java,SQL,Design Patterns,Testing,Spring Boot,Protocols,Jenkins,Docker,Cloud platform,Microsoft Azure,Networking,Python","High availability,Software Development Life Cycle"
-AI Consultant,Spyrosoft,AI,0,Expert,26880,33600,"AI,Machine Learning,Computer vision,Python,consulting",Generative AI
-"Senior Linux Systems Engineer (Golang, Python)",NetFire,Architecture,1,Senior,12800,19360,"Golang,Python,Bash,Linux,KVM,Nginx","Ceph,Red Hat,ELK Stack,SELinux,Libvirt,oVirt,LDAP,iPXE/PXE,SaltStack,Red Hat Kickstart/Debian Preseed,PowerShell,Rust"
-Mid C++ Engineer,Link Group,Backend,0,Mid,15000,25000,"C++,Bash,Linux,Python",Agile
+Remote Java Developer (with AWS),SquareOne,Backend,1,Senior,21840,26880,"Java,Spring,AWS,Microservices","DDD,NoSQL,Python,Machine learning"
+C++ Build Engineer (Expert),VirtusLab,Backend,1,Expert,26000,31000,"C++ build engineering,C++,Bazel,Git,Scripting python / Windows/ Linux shell,Java","Java / Kotlin / Scala / Go,Premake"
+Mid JavaScript Engineer III,OpenX,Frontend,1,Mid,23352,27552,"JavaScript,Typescript,React,Material UI,AWS","Node.js,GCP,Python,Golang"
 DevOps Engineer,Boldare,DevOps,0,Senior,18000,26000,"DevOps,Kubernetes,GitLab,CI/CD,Git,Terraform,ArgoCD,GitOps,PostgreSQL,Prometheus,Loki,Grafana,Ansible,Nginx,Cloudflare","Go,Python,JavaScript,Java,PHP,Ruby"
-Junior DevOps Engineer z chmurą Azure/AWS/GCP,SlickCloud,DevOps,1,Junior,8000,12000,"Terraform,Kubernetes,Python,CI,GitLab CI,CD,Azure,Microsoft Azure",
-Senior ML Python Engineer,Snowflake,AI,0,Senior,30000,60000,"Python,SDK,REST,gRPC,CI/CD,Docker,Kubernetes,Jenkins,ML,PyTorch,TensorFlow,scikit-learn,pandas,W&B,Metaflow","PhD,Go,Java"
-Golang Engineer (with Python and Infra skills),N-iX,Backend,1,Senior,20170,26625,"Golang,Docker,Kubernetes,Cloud Native,Python","Open source,Data science,MLOps"
+Mid C++ Engineer,Link Group,Backend,0,Mid,15000,25000,"C++,Bash,Linux,Python",Agile
+AI Consultant,Spyrosoft,AI,0,Expert,26880,33600,"AI,Machine Learning,Computer vision,Python,consulting",Generative AI
+Data Engineer,Remitly Poland sp. z o.o.,Data,0,Mid,20000,23000,"AWS,Data engineering","AWS S3,Python,Scala,Golang,Hadoop,Redshift,Kinesis,SQS,SNS,Athena,BigQuery,GCP,Kubernetes,Docker,Glue"
+"Senior Linux Systems Engineer (Golang, Python)",NetFire,Architecture,1,Senior,12800,19360,"Golang,Python,Bash,Linux,KVM,Nginx","Ceph,Red Hat,ELK Stack,SELinux,Libvirt,oVirt,LDAP,iPXE/PXE,SaltStack,Red Hat Kickstart/Debian Preseed,PowerShell,Rust"
 Senior Big Data Engineer (Scala/Python) - Data&AI,Allegro,Data,0,Senior,18400,25410,"Scala,Python,Java,Spark,GCP,Azure,AWS,Clean Code,TDD,CI/CD,Unix,Linux",
-Fullstack Python/React Developer,Grape Up,Fullstack,1,Mid,16000,22100,"Python,SQL,PostgreSQL,JavaScript,TypeScript,React,Redux,REST API,GraphQL,AWS,Terraform,Web development,Redux-Saga,Communication skills","CI/CD,Webpack,Material UI,Unit testing,Selenium,Cypress,BPMN,Serverless computing"
-Intern / Junior AI Engineer,Tangent,AI,0,Junior,5544,8904,"Python,pandas,PyTorch,NumPy,Flask,Docker,Azure,Prototyping,Data models,Data science","NLP,AWS,Computer vision,GitHub,Jenkins,Jira,GCP,MLflow,ClearML,LoRA,CI/CD"
-Senior Networking Data Scientist,Akamai,Data,1,Senior,19000,20000,"Analytics,Statistics,Data analysis","Python or Perl or SQL or Java or C orR,Internet Protocol"
 Fullstack Developer (React + Node/Python),Euvic S.A.,Fullstack,1,Mid,15120,21840,"React,Python,Node.js,JavaScript",AWS
-Senior NLP Engineer (REMOTE),Sigmoidal,AI,1,Senior,31000,37000,"Python,NLP,Machine learning",
+Fullstack Python/React Developer,Grape Up,Fullstack,1,Mid,16000,22100,"Python,SQL,PostgreSQL,JavaScript,TypeScript,React,Redux,REST API,GraphQL,AWS,Terraform,Web development,Redux-Saga,Communication skills","CI/CD,Webpack,Material UI,Unit testing,Selenium,Cypress,BPMN,Serverless computing"
+Senior Networking Data Scientist,Akamai,Data,1,Senior,19000,20000,"Analytics,Statistics,Data analysis","Python or Perl or SQL or Java or C orR,Internet Protocol"
+Software Development Engineer III (Java + Python),Tesco Technology,Backend,0,Senior,26000,36000,"Java,SQL,Design Patterns,Testing,Spring Boot,Protocols,Jenkins,Docker,Cloud platform,Microsoft Azure,Networking,Python","High availability,Software Development Life Cycle"
+Senior ML Python Engineer,Snowflake,AI,0,Senior,30000,60000,"Python,SDK,REST,gRPC,CI/CD,Docker,Kubernetes,Jenkins,ML,PyTorch,TensorFlow,scikit-learn,pandas,W&B,Metaflow","PhD,Go,Java"
+Intern / Junior AI Engineer,Tangent,AI,0,Junior,5544,8904,"Python,pandas,PyTorch,NumPy,Flask,Docker,Azure,Prototyping,Data models,Data science","NLP,AWS,Computer vision,GitHub,Jenkins,Jira,GCP,MLflow,ClearML,LoRA,CI/CD"
+Golang Engineer (with Python and Infra skills),N-iX,Backend,1,Senior,20170,26625,"Golang,Docker,Kubernetes,Cloud Native,Python","Open source,Data science,MLOps"
+Junior DevOps Engineer z chmurą Azure/AWS/GCP,SlickCloud,DevOps,1,Junior,8000,12000,"Terraform,Kubernetes,Python,CI,GitLab CI,CD,Azure,Microsoft Azure",
 Junior Data Engineer,Capital.com,Data,0,Junior,8000,12000,"Python,SQL,Git","AWS,PostgreSQL,CI/CD"
+Security Engineer,NewPush Europe Kft.,Security,1,Mid,12771,17455,"Python,Splunk,Cortex,Tenable,Cloudflare,Cloud security","Cisco,LogPoint,Burp Suite,Palo Alto,AWS,GCP"
 ETF Data and Quant Analyst,ETFbook,Data,1,Junior,7500,12000,"Data analytics,Python","Python,Finance"
 Senior System Integration Test Engineer,Adtran Networks Sp. zo. o.,Testing,0,Senior,15000,19000,"Python,Wireshark,Bash script,Linux,Networking,qTest,pytest,Robot Framework","TCP,DHCP,DNS,L2,Ethernet,OpenWRT,IEEE,CCNA"
-Senior DevOps/Site Reliability Engineer,Focal Systems,DevOps,1,Senior,45000,70000,"SQL,Python,Docker,Kubernetes,Networking,Big Data,GCP,Kafka,Redis",GitOps
 Senior Software Engineer in Test,Akamai Technologies,Testing,1,Senior,19000,22000,"Python,Linux,Networking,Security,DevOps,Jenkins,Docker,Ansible,L2,Communication skills,Kubernetes",
-Security Engineer,NewPush Europe Kft.,Security,1,Mid,12771,17455,"Python,Splunk,Cortex,Tenable,Cloudflare,Cloud security","Cisco,LogPoint,Burp Suite,Palo Alto,AWS,GCP"
-Big Data Engineer,Kontakt.io,Data,1,Senior,26880,31920,"Python,Java,Kafka,AWS,Microservices architecture,MongoDB,PostgreSQL,Prometheus,Kubernetes,Big Data","Kotlin,Scala"
-Senior Data Engineer,ITDS,Data,0,Senior,21840,25200,"Data engineering,ETL,Data modeling,Git,Maven,Shell,Python,DevOps,CI/CD",
+Senior NLP Engineer (REMOTE),Sigmoidal,AI,1,Senior,31000,37000,"Python,NLP,Machine learning",
+Senior DevOps/Site Reliability Engineer,Focal Systems,DevOps,1,Senior,45000,70000,"SQL,Python,Docker,Kubernetes,Networking,Big Data,GCP,Kafka,Redis",GitOps
 Machine Learning Engineer,Ardigen,AI,0,Mid,13000,15000,"Python,Bash,Git,Machine learning","Kubernetes,Docker,AWS Cloud,MLOps,Data visualization,pandas,NumPy,PyTorch"
 Machine Learning Engineer (Python+Airflow +Azure),1dea,AI,1,Senior,25200,27720,"Python,MLOps,Apache Airflow,Flask,FastAPI,gRPC,NoSQL,GraphQL,PySpark,NLP,MLflow","Azure Pipelines,CI,Kubernetes,TensorFlow,Torch"
+Data Scientist,Qurate Retail Group Global Business Services sp. z o.o.,Data,1,Mid,9000,11000,"Analytical skills,Machine Learning,Data analysis,R,Python,SQL,Data science,SPSS",
 Remote Mid DevOps Engineer,Kellton Poland sp. z o.o.,DevOps,1,Mid,18000,24000,"Python,Linux,Ubuntu,Docker,Terraform,CI/CD,Kubernetes",
 Technical Data Analyst,RTB House,Data,1,Mid,10000,14000,"Excel,Python,pandas,R,SQL,HTTP,HTML,JavaScript",
+Big Data Engineer,Kontakt.io,Data,1,Senior,26880,31920,"Python,Java,Kafka,AWS,Microservices architecture,MongoDB,PostgreSQL,Prometheus,Kubernetes,Big Data","Kotlin,Scala"
 Data Engineer,DS STREAM,Data,1,Senior,20160,30240,"Python,Azure,Databricks",
-Data Scientist,Qurate Retail Group Global Business Services sp. z o.o.,Data,1,Mid,9000,11000,"Analytical skills,Machine Learning,Data analysis,R,Python,SQL,Data science,SPSS",
+Senior Data Engineer,ITDS,Data,0,Senior,21840,25200,"Data engineering,ETL,Data modeling,Git,Maven,Shell,Python,DevOps,CI/CD",
+Machine Learning Engineer (NLP & LLM),Tooploox,AI,1,Mid,13000,18000,"Python,Machine learning,Deep learning,Natural language processing",LLM
 Data Engineer,Sunscrapers,Data,1,Mid,20000,24000,"Python,Pandas,Sequel,dbt,ETL","Snowflake,Docker,Azure,Terraform"
+Senior Software Engineer (Machine Learning MLOps),Tesco Technology,Data,0,Senior,26000,36000,"Python,Machine learning,Splunk,Apache Spark,Azure",MLOps
 Data Engineer II - Forecasting,Tesco Technology,Data,0,Mid,20000,30000,"Spark,Hadoop,Python,Scala,Kafka,Big Data","PySpark,Hive"
 Data Engineer III - Forecasting,Tesco Technology,Data,0,Senior,26000,40000,"Hadoop,Spark,Python,pandas,Design Patterns,API,Airflow,pytest,GitHub,Jira,Big Data,High availability,Software Development Life Cycle",
 Senior Data Scientist/ AI Engineer,SquareOne,Data,1,Senior,23520,30240,"AI,SQL,Python,PySpark,Spark,NoSQL,LLM,Cloud,Deep learning","Azure,AWS,GCP,Kanban,GitHub"
 Team Lead - Senior AI / ML Engineer,DevCity sp. z o.o.,AI,0,Senior,18000,24000,"AI,ML,Python,scikit-learn,NLP,spaCy,TensorFlow,Power Automate,Selenium,Robot Framework,UI,Machine learning,Communication skills",
-Senior Software Engineer (Machine Learning MLOps),Tesco Technology,Data,0,Senior,26000,36000,"Python,Machine learning,Splunk,Apache Spark,Azure",MLOps
-Machine Learning Engineer (NLP & LLM),Tooploox,AI,1,Mid,13000,18000,"Python,Machine learning,Deep learning,Natural language processing",LLM
-Senior Data Engineer,Adaptiq,Data,1,Senior,26221,28238,"Python,Spark,Kafka,Airflow,Scala,Java,Go,Databricks,Snowflake,ETL/ELT processes",
 "Senior Data Scientist (NLP and LLMs), AI Research",Brainly Sp. z o.o.,Data,1,Senior,26000,35000,"Python,NLP,transformers",LLMs
-Principal Data Engineer,Proxet,Data,1,Senior,32272,40341,"Python,SQL,PostgreSQL,BigQuery,Redis,Google Cloud,Integration test,Docker,Communication skills","GraphQL,Data engineering"
-Product & Member Security Engineer,Zazmic Inc,Security,1,Mid,18000,22000,"OWASP,CISSP,CSSLP,CEH,CWE,Python","Android,Machine Learning,Machine learning,Spring,Boot,FastAPI,Cloud,AWS,Azure,GCP,Infrastructure as Code,AWS CDK,Terraform,Docker,Kubernetes,ECS,AWS ECS,Snowflake,Apache Spark,iOS"
-Data Engineer,Finture Sp. Zo.o,Data,0,Mid,21000,27000,"Informatica,GCP,Google Cloud,Cloud,Storage,Phyton,Flask,Django,Oracle,Linux,Bash,Apache Airflow,Python","Kubernetes,Docker,SAS"
-Remote Strong Middle Machine Learning Engineer,Shelf,AI,1,Mid,16136,24204,"Data analytics,Python,Machine learning,NLP,AWS,AWS Lambda,Amazon SQS,SNS,AWS DynamoDB,ECS,AWS ECS,AWS EC2,AWS S3,REST API,API","PostgreSQL,Amazon RDS,scikit-learn,Elasticsearch,pandas,Hugging Face,Docker,Kubernetes,Terraform,PyTorch,Apache Spark,Airflow"
 DevOps Engineer,Mindbox S.A.,DevOps,0,Senior,23100,33600,"AWS,GCP,Splunk,Prometheus,Grafana,Ansible,GitHub,Jenkins,Docker,Kubernetes,Oracle,PostgreSQL,MongoDB,Infrastructure as Code,Python",
+Remote Strong Middle Machine Learning Engineer,Shelf,AI,1,Mid,16136,24204,"Data analytics,Python,Machine learning,NLP,AWS,AWS Lambda,Amazon SQS,SNS,AWS DynamoDB,ECS,AWS ECS,AWS EC2,AWS S3,REST API,API","PostgreSQL,Amazon RDS,scikit-learn,Elasticsearch,pandas,Hugging Face,Docker,Kubernetes,Terraform,PyTorch,Apache Spark,Airflow"
+Senior Data Engineer,Adaptiq,Data,1,Senior,26221,28238,"Python,Spark,Kafka,Airflow,Scala,Java,Go,Databricks,Snowflake,ETL/ELT processes",
+Product & Member Security Engineer,Zazmic Inc,Security,1,Mid,18000,22000,"OWASP,CISSP,CSSLP,CEH,CWE,Python","Android,Machine Learning,Machine learning,Spring,Boot,FastAPI,Cloud,AWS,Azure,GCP,Infrastructure as Code,AWS CDK,Terraform,Docker,Kubernetes,ECS,AWS ECS,Snowflake,Apache Spark,iOS"
 Senior MLOps Engineer,SoftServe,Data,1,Senior,25000,34000,"Machine learning,AWS,GCP,Azure,MLOps,Python",
-Data Scientist,nCube,Data,1,Senior,16136,26221,"Python,Data science,pandas,NumPy,TensorFlow,PyTorch,Machine learning,Natural language processing,Data structures,Data modeling,Cloud platform,Azure","Agile,Big Data,Hadoop,Spark,DevOps,CI/CD Pipelines"
-Data Engineer,Pragmile,Data,1,Senior,23520,26880,"Data structures,Big data,Python","Android,Java,Kotlin"
-Senior Test Automation Engineer - Remote,Link Group,Testing,1,Senior,23520,25200,"Python,Java,Test automation,E2E,TDD,BDD,Page Object Model,Agile,Scrum,CI/CD,Bamboo,Jenkins",
-NLP & LLM Engineer,Tooploox,AI,1,Mid,16000,21000,"Python,Natural language processing,LLM","Deep learning,Machine learning"
-Data Scientists & Analysts,1dea,Data,1,Mid,14926,20331,"Python,Data science",Data analysis
-DevOps Manager,Cere Network,DevOps,0,Expert,28000,40000,"Python,AWS,Go,Terraform,Bash,Degree,DevOps,Azure,Google Cloud,Cloud platform,Amazon EKS,Route53,Amazon RDS,Networking,IaaC,Docker,Grafana,Prometheus,Sentry,Datadog,Communication skills",WEB 3.0.
+Data Engineer,Finture Sp. Zo.o,Data,0,Mid,21000,27000,"Informatica,GCP,Google Cloud,Cloud,Storage,Phyton,Flask,Django,Oracle,Linux,Bash,Apache Airflow,Python","Kubernetes,Docker,SAS"
+Principal Data Engineer,Proxet,Data,1,Senior,32272,40341,"Python,SQL,PostgreSQL,BigQuery,Redis,Google Cloud,Integration test,Docker,Communication skills","GraphQL,Data engineering"
 AI Engineer,Tangent,AI,0,Mid,15120,18984,"Python,pandas,PyTorch,NumPy,Flask,Docker,Azure,Prototyping,Data models,Data science","NLP,AWS,Computer vision,GitHub,Jenkins,Jira,GCP,MLflow,ClearML,LoRA,CI/CD"
-Senior NLP Data Scientist,Adaptiq,Data,1,Senior,22187,28238,"Python,NLP,Natural language processing,Deep learning,text-related neural network optimization,cloud computing platforms,MLOps tools,Data pipelines,Data engineering",
+Data Scientist,nCube,Data,1,Senior,16136,26221,"Python,Data science,pandas,NumPy,TensorFlow,PyTorch,Machine learning,Natural language processing,Data structures,Data modeling,Cloud platform,Azure","Agile,Big Data,Hadoop,Spark,DevOps,CI/CD Pipelines"
 CyberArk Engineer - Remote,Link Group,Security,1,Senior,38640,43680,"Python,IAM,Cybersecurity,CyberArk,Windows,Linux,Unix,PowerShell,Bash,RBAC",
-Data Analyst/QA Engineer,ComScore (via CC),Data,1,Mid,10000,16000,"Data analysis,QA,Statistics,Python,SQL,Linux",
+Senior Test Automation Engineer - Remote,Link Group,Testing,1,Senior,23520,25200,"Python,Java,Test automation,E2E,TDD,BDD,Page Object Model,Agile,Scrum,CI/CD,Bamboo,Jenkins",
+Data Engineer,Pragmile,Data,1,Senior,23520,26880,"Data structures,Big data,Python","Android,Java,Kotlin"
+NLP & LLM Engineer,Tooploox,AI,1,Mid,16000,21000,"Python,Natural language processing,LLM","Deep learning,Machine learning"
+Senior NLP Data Scientist,Adaptiq,Data,1,Senior,22187,28238,"Python,NLP,Natural language processing,Deep learning,text-related neural network optimization,cloud computing platforms,MLOps tools,Data pipelines,Data engineering",
+Data Scientists & Analysts,1dea,Data,1,Mid,14926,20331,"Python,Data science",Data analysis
 Mid/Senior DevOps Engineer,SlickCloud,DevOps,1,Senior,18500,33500,"Python,Terraform,Kubernetes,Cloud,CI/CD,Bash,IaC",
 Lead Data Engineer,Digital Hub Warsaw at Bayer,Data,0,Expert,25000,35000,"Python,AWS,Snowflake,Databricks,Presto,Spark,PySpark,GraphQL,Terraform,AWS Lambda",
-3D Animation and Rigging Artist,Codete,Game Development,1,Expert,26880,33600,"Python,Animation,Maya,CGI","C++,Microservices,Cloud development,Docker,Kubernetes,Blender,houdni"
 Senior AI Engineer - Remote,7N,AI,1,Senior,30240,38640,"Python,R,Java,C++,AI,TensorFlow,PyTorch,Data analysis",
-Data Engineer in Microsoft Azure Cloud,Avanade Poland,Data,1,Mid,19320,29400,"Azure,Python,SQL,C#,CAN,Databricks,Azure Synapse,Neo4j,Java,C++,SQL Server,Snowflake,Azure IoT","Azure Data Lake,Azure Data Factory,Machine learning,Azure Databricks,MySQL,Azure Data,Data engineering,Cosmos DB,Azure Cloud,Git"
+3D Animation and Rigging Artist,Codete,Game Development,1,Expert,26880,33600,"Python,Animation,Maya,CGI","C++,Microservices,Cloud development,Docker,Kubernetes,Blender,houdni"
+Data Analyst/QA Engineer,ComScore (via CC),Data,1,Mid,10000,16000,"Data analysis,QA,Statistics,Python,SQL,Linux",
 Senior Data Engineer,Digital Hub Warsaw at Bayer,Data,0,Senior,18000,28000,"Python,ETL,Cloud,SQL,Apache Airflow,Kafka,Git","Google cloud platform,R"
-Mid/Senior Data Engineer (AWS/GCP),Capco Poland,Data,1,Mid,25200,30240,"Python,Degree,Data pipelines,SQL,Athena,Redshift,Glue,Terraform,Outlook,ETL,AWS,GCP","dbt,PySpark,Java,Kotlin"
-Senior Site Reliability Engineer,Wipro IT Services Poland,DevOps,0,Senior,22050,27300,"Python,Hadoop,Kafka,Linux,Automation,Big Data,Software Development Life Cycle,Unix","HBase,Java,Spark"
-AI Engineer,Lingaro,AI,1,Mid,15120,19320,"Python,AI,Databricks,Azure ML","Azure,Spark,MLOps,Scala"
+Data Engineer in Microsoft Azure Cloud,Avanade Poland,Data,1,Mid,19320,29400,"Azure,Python,SQL,C#,CAN,Databricks,Azure Synapse,Neo4j,Java,C++,SQL Server,Snowflake,Azure IoT","Azure Data Lake,Azure Data Factory,Machine learning,Azure Databricks,MySQL,Azure Data,Data engineering,Cosmos DB,Azure Cloud,Git"
 Senior AI Engineer,Lingaro,AI,1,Expert,25200,33600,"Python,AI,Databricks,Azure ML","Azure,GCP,MLOps,Spark,Scala"
-Machine Learning Engineer,HARMAN Connected Services,AI,1,Senior,21840,25200,"AWS,Python,Machine learning,SQL,NoSQL,PyTorch,Airflow,TensorFlow,CI/CD","PhD,ads targeting,algorithms optimization,user profiling,recommendation systems,churn prediction"
+Senior Site Reliability Engineer,Wipro IT Services Poland,DevOps,0,Senior,22050,27300,"Python,Hadoop,Kafka,Linux,Automation,Big Data,Software Development Life Cycle,Unix","HBase,Java,Spark"
 Senior Research Scientist,Snowflake,AI,0,Senior,30000,60000,"Machine learning,Python,Natural language processing,Machine Learning,AI,NLP,PyTorch,Deep learning","SQL,Data science"
+Mid/Senior Data Engineer (AWS/GCP),Capco Poland,Data,1,Mid,25200,30240,"Python,Degree,Data pipelines,SQL,Athena,Redshift,Glue,Terraform,Outlook,ETL,AWS,GCP","dbt,PySpark,Java,Kotlin"
 Senior Software Engineer (DevOps),Snowflake,DevOps,0,Senior,30000,60000,"SaaS,CI/CD,Python,Node.js,AWS,Azure","Git,Jira,Nexus,Artifactory,Jenkins,Kubernetes,Docker,Databases,SQL"
+AI Engineer,Lingaro,AI,1,Mid,15120,19320,"Python,AI,Databricks,Azure ML","Azure,Spark,MLOps,Scala"
 Data Engineer,SquareOne,Data,0,Mid,19000,21000,"Python,Teradata,BigQuery,Google Cloud Platform,SQL,ETL,Flask,Django,Apache Airflow,GitLab,Jira","Jenkins,Kubernetes,Docker,SAS,Google Data Studio,Grafana"
-Machine Learning Engineer,Tooploox,AI,1,Mid,13000,18000,"Python,Machine Learning,Computer vision","MSc,PhD"
-Mid Data & AI Engineer FULLY REMOTE,Nest Bank,Data,1,Mid,15000,22000,"Big DATA,AI,Big Data,PySpark,Azure,Python,SQL,CI/CD",
-Machine Learning Engineering Leader,HARMAN Connected Services,AI,1,Expert,28560,31920,"AWS,Python,Machine learning,SQL,NoSQL,PyTorch,Airflow,TensorFlow,CI/CD","PhD,ads targeting,algorithms optimization,user profiling,recommendation systems,churn prediction"
-Cloud Data Engineer (3 months contract),VML Enterprise Solutions,Data,1,Mid,13000,17000,"Python,SQL,AWS,GCP,Azure,Hadoop,Spark,NoSQL,Docker,Kubernetes","Tableau,Power BI"
+Machine Learning Engineer,HARMAN Connected Services,AI,1,Senior,21840,25200,"AWS,Python,Machine learning,SQL,NoSQL,PyTorch,Airflow,TensorFlow,CI/CD","PhD,ads targeting,algorithms optimization,user profiling,recommendation systems,churn prediction"
 Director of Data Science,Ardigen,AI,1,Expert,18000,23000,"Python,AI,Data science,lead,managing team",
-Junior Site Reliability Engineer,Wipro IT Services Poland,DevOps,0,Junior,17850,19950,"Python,Linux,Automation,Software Development Life Cycle,Unix,Kubernetes","Java,Docker,Virtualization"
-Mid/Senior Network QA Automation Engineer,CodiLime,Testing,1,Senior,16500,25000,"Python,Networks,Docker,Kubernetes,Linux,Git,CI/CD",
-Senior QA Engineer,Hitachi Energy,Testing,0,Senior,12000,18000,"Python,API,UI,QA,SQL,TS,JavaScript,Testing","Linux,RobotFramework,Playwright,ISTQB"
-Network Automation Engineer (Python+Ansible),SoftServe,DevOps,1,Senior,24000,28000,"Python,Ansible,CI/CD","REST API,Git,MongoDB,NoSQL"
+Senior Python Test Automation Software Engineer,Hitachi Energy,Testing,0,Senior,15000,20000,"MSc,Degree,Python,pytest,Test automation,CCNA,Cisco Certified Network Associate,OSI,Ethernet,VLAN,Linux,Bash,Git,Continuous integration,Azure DevOps,Communication skills",
+"Lead Data Software Engineer (Python, Azure)",EPAM Systems,Data,0,Senior,26500,32000,"Python,Azure Data,Azure Databricks,Databricks,PySpark",Azure Data Lake
+Data Architect (AWS + Python) - Remote,Link Group,Data,1,Senior,32272,40341,"Python,AWS,Redshift,Aurora,Glue,Lake Formation,S3,Lambda,Data engineering,Apache Aurora,AWS S3,AWS Lambda,Kinesis,Kafka,MDM,Snowflake,dbt,Relational database,ETL,Data management",
+Cloud Data Engineer (3 months contract),VML Enterprise Solutions,Data,1,Mid,13000,17000,"Python,SQL,AWS,GCP,Azure,Hadoop,Spark,NoSQL,Docker,Kubernetes","Tableau,Power BI"
+Machine Learning Engineering Leader,HARMAN Connected Services,AI,1,Expert,28560,31920,"AWS,Python,Machine learning,SQL,NoSQL,PyTorch,Airflow,TensorFlow,CI/CD","PhD,ads targeting,algorithms optimization,user profiling,recommendation systems,churn prediction"
+Data Engineer Python,Connectis_,Data,1,Senior,28000,33000,"Python,Databricks,PySpark,Azure",
+Senior QA Python,AVENGA,Testing,1,Senior,24360,27720,"Quality assurance,Python,Java,Shell,Testing,XML,SQL,Unix,Jira,Test automation","SVN,JMeter,Selenium,ALM,Test management,Communication skills"
+"Software Test Automation Engineer (Python, Squish)",Link Group,Testing,0,Mid,14000,22000,"Test automation,OOP,Python,C,C++,Bash,Linux,GUI testing,Squish",Agile
+ETL Developer with Python - Remote,DCG Sp. z o.o.,Data,1,Senior,25200,33600,"Python,Serverless,Git,AWS,RDBMS,Snowflake,ETL,Data Lake,Data warehouse,API,JDBC,file processing",
 Senior Cloud Developer - Satalia,VML Enterprise Solutions,Backend,1,Senior,21000,26000,"Communication skills,Team player,API Gateway,Terraform,Azure DevOps,Git,OAuth2,OIDC",Open source
-Senior Software Engineer,Digital Hub Warsaw at Bayer,AI,0,Senior,20000,30000,"Python,AI,Machine learning","AWS,TensorFlow,Spark,Keras,Flux"
-Cloud Developer - Satalia,VML Enterprise Solutions,Backend,1,Mid,14000,20000,"Communication skills,Team player,API Gateway,Terraform,Azure DevOps,Git,OAuth2,OIDC",Open source
-Senior Fullstack Engineer (Cloud-based SaaS),Adtran Networks Sp. zo. o.,Fullstack,1,Senior,18000,22000,"Angular,React,TypeScript,JavaScript,Material Design,Python,Bash script,IaC,CI/CD,Test frameworks,iOS","Docker,QA,Web GUI,Saas development,Wireframing,Cypress,Jasmine,Amazon Web Services"
-Remote AI Senior Software Developer,Matrix Global Services,Backend,1,Senior,36731,42348,"Python,Degree,Java,Big data,ETL,Infrastructure as Code,SQL,Redshift,AWS,C#","ML,AI,LLM"
-Senior Software Engineer,Amartus Polska Sp. z o.o.,Backend,1,Senior,25200,31500,"Python,Ansible,CI/CD,Kubernetes,Docker,Terraform,Azure,vSphere","YAML,Jenkins,tosca,CCNP,AWS,GCP"
-Integrations Engineer,Knowde,Backend,1,Senior,20000,25000,"MDM,ERP,CRM,API,Python","REST API,GraphQL,Degree,Scripting language,Ruby,Python"
+"Software Test Automation Engineer (Python, Squish)",Link Group,Testing,0,Senior,22000,28000,"Test automation,OOP,Python,C,C++,Bash,Linux,GUI testing,Squish",Agile
 Internal Developer,Flugger Poland,Backend,1,Mid,20000,25000,"Python,REST API,Docker,Kubernetes,CI,CD,Design Patterns,Microservices architecture,Azure Cloud,AWS",Microservice architecture
+Integrations Engineer,Knowde,Backend,1,Senior,20000,25000,"MDM,ERP,CRM,API,Python","REST API,GraphQL,Degree,Scripting language,Ruby,Python"
 Senior Backend Developer,Focal Systems,Backend,1,Senior,37000,70000,"Python,Docker,Flask,Git,Degree,REST API,CI/CD","Kafka,Redis"
+Senior Fullstack Engineer (Cloud-based SaaS),Adtran Networks Sp. zo. o.,Fullstack,1,Senior,18000,22000,"Angular,React,TypeScript,JavaScript,Material Design,Python,Bash script,IaC,CI/CD,Test frameworks,iOS","Docker,QA,Web GUI,Saas development,Wireframing,Cypress,Jasmine,Amazon Web Services"
 Fullstack Engineer (Cloud-based SaaS),Adtran Networks Sp. zo. o.,Fullstack,1,Mid,14000,17000,"Angular,React,TypeScript,JavaScript,Material Design,Python,Bash script,IaC,CI/CD,Test frameworks,iOS","Docker,QA,Web GUI,Saas development,Wireframing,Cypress,Jasmine,Amazon Web Services"
-Senior Software Engineer,Akamai,Backend,1,Senior,19000,26000,"Python,Linux,Networking,TCP,Protocols,CI/CD","Golang,C++,C,Terraform,DevOps,Puppet,Helm,Ansible"
-Junior Software Engineer Back-End Cloud-based SaaS,Adtran Networks Sp. zo. o.,Backend,0,Junior,11000,13000,"Python,Bash,pytest,Selenium",Docker
+Remote AI Senior Software Developer,Matrix Global Services,Backend,1,Senior,36731,42348,"Python,Degree,Java,Big data,ETL,Infrastructure as Code,SQL,Redshift,AWS,C#","ML,AI,LLM"
+Cloud Developer - Satalia,VML Enterprise Solutions,Backend,1,Mid,14000,20000,"Communication skills,Team player,API Gateway,Terraform,Azure DevOps,Git,OAuth2,OIDC",Open source
 Full Stack Engineer,Kancelaria Propseritas,Fullstack,0,Mid,10000,20000,"Python,Django,JavaScript,Vue.js,Git,CI",
-3D Animation And Rigging Artist,SquareOne,Backend,1,Senior,26880,31080,"Animation,Python,Maya,unreal,UNITY","Blender,C++,API,Docker,Kubernetes"
-Full Stack Developer: Python+Django+React.js,ITDS,Fullstack,0,Senior,14700,21840,"Python,Django,React,JavaScript,Redux,UI,Git,Unit testing,functional testing,regression testing,E2E,SQL,REST API",
-Junior Python Developer,ENYO,Backend,0,Junior,7000,9000,"Python,pandas,Selenium,Excel,Power Pivot,REST API,SQL,Azure",
-Backend AWS Engineer,Grape Up,Backend,1,Mid,16000,22100,"Python,AWS,Java,Spring,DynamoDB,RESTful API,Git,CI/CD,jenkins,REST API","AWS lambda,Cloud Formation,CDK,bdd,unit test,React,TypeScript"
+Senior Software Engineer,Amartus Polska Sp. z o.o.,Backend,1,Senior,25200,31500,"Python,Ansible,CI/CD,Kubernetes,Docker,Terraform,Azure,vSphere","YAML,Jenkins,tosca,CCNP,AWS,GCP"
+Junior Software Engineer Back-End Cloud-based SaaS,Adtran Networks Sp. zo. o.,Backend,0,Junior,11000,13000,"Python,Bash,pytest,Selenium",Docker
+Senior Software Engineer,Akamai,Backend,1,Senior,19000,26000,"Python,Linux,Networking,TCP,Protocols,CI/CD","Golang,C++,C,Terraform,DevOps,Puppet,Helm,Ansible"
 Software Engineer,Digital Hub Warsaw at Bayer,Fullstack,0,Mid,14000,23000,"Python,Degree,Machine learning,Software Development Life Cycle,JavaScript,TypeScript,PyTorch,f.lux,Natural language processing,NLP,AI,SQL,NoSQL,Big Data,Hadoop,Spark,Azure,AWS,Project management,Kanban,CI,CD pipelines","Deep learning,TensorFlow"
-Python Developer,Piwik PRO,Backend,1,Mid,19000,24000,"Python,Django,REST API,HTTP,API,RBAC,RabbitMQ,SQL,Clean Code,Docker","pytest,OAuth,SAML,Kubernetes,go lang"
-Junior Python Developer,z3x Tech Marketing Agency,Fullstack,0,Junior,3000,6000,"Python,Web development,Git",Django
+3D Animation And Rigging Artist,SquareOne,Backend,1,Senior,26880,31080,"Animation,Python,Maya,unreal,UNITY","Blender,C++,API,Docker,Kubernetes"
 Software Engineer in Machine Learning,Tooploox,Backend,1,Mid,12000,15000,"Python,Clean Code,Design Patterns,Continuous integration,Git,PyTorch,Docker,Communication skills,Machine learning","Kubernetes,MLOps"
 Senior Software Engineer - Connectors Platform,Snowflake,Backend,0,Senior,30000,60000,"Python,Java,SQL",
+Junior Python Developer,z3x Tech Marketing Agency,Fullstack,0,Junior,3000,6000,"Python,Web development,Git",Django
+Backend AWS Engineer,Grape Up,Backend,1,Mid,16000,22100,"Python,AWS,Java,Spring,DynamoDB,RESTful API,Git,CI/CD,jenkins,REST API","AWS lambda,Cloud Formation,CDK,bdd,unit test,React,TypeScript"
+Junior Python Developer,ENYO,Backend,0,Junior,7000,9000,"Python,pandas,Selenium,Excel,Power Pivot,REST API,SQL,Azure",
+Full Stack Developer: Python+Django+React.js,ITDS,Fullstack,0,Senior,14700,21840,"Python,Django,React,JavaScript,Redux,UI,Git,Unit testing,functional testing,regression testing,E2E,SQL,REST API",
+Senior Software Engineer (Python),SpotOn,Backend,0,Senior,22000,30000,"Python,FastAPI,Flask,Service-oriented architecture,ETL,Azure,Cloud Infrastructure,Asynchronous Programming","Kubernetes,Docker"
+Python Developer,Piwik PRO,Backend,1,Mid,19000,24000,"Python,Django,REST API,HTTP,API,RBAC,RabbitMQ,SQL,Clean Code,Docker","pytest,OAuth,SAML,Kubernetes,go lang"
+Lead Developer - Python,Aionyx,Backend,1,Expert,21606,30249,"Python,AI,Cloud","Azure,Kafka"
+Senior Python Developer,"SEGRON Automation, s.r.o.",Backend,0,Senior,21779,29039,"Python,Degree,DevOps,Atlassian,Bitbucket,Confluence,Proxy,Git","Linux,Protocols,Robot Framework,Microservices,Ansible,Docker,Jira"
+Python Software Engineer,hyperexponential,Backend,0,Mid,20000,25000,Python,"AWS,Cloud,Rust,Functional programming"
 Senior Python Developer (with JS + REST API),1dea,Backend,1,Senior,25200,27720,"Python,Data modeling,Pycharm,JavaScript,HTML,CSS,UI,Jupyter","pandas,AWS,Flask,Django"
 Tech Lead / Senior Python Developer,Lingaro,Backend,1,Expert,21840,26880,"Python,Flask,Django,TDD,pytest,MySQL,PostgreSQL,Azure,GCP,Docker",Kubernetes
 Senior Software Engineer (Rust/Python),hyperexponential,Backend,0,Senior,27000,33000,Python,"AWS,Cloud,Python,CI/CD,Golang,Rust,Memcached,Docker"
-Senior Python Developer,"SEGRON Automation, s.r.o.",Backend,0,Senior,21779,29039,"Python,Degree,DevOps,Atlassian,Bitbucket,Confluence,Proxy,Git","Linux,Protocols,Robot Framework,Microservices,Ansible,Docker,Jira"
-Unity & Python Backend Engineer,Unit Group,Backend,1,Senior,22187,26221,"UNITY,Python","Cloud,DevOps,Kubernetes,AWS"
-Python Software Engineer,hyperexponential,Backend,0,Mid,20000,25000,Python,"AWS,Cloud,Rust,Functional programming"
-Lead Developer - Python,Aionyx,Backend,1,Expert,21606,30249,"Python,AI,Cloud","Azure,Kafka"
-Senior Software Engineer (Python),SpotOn,Backend,0,Senior,22000,30000,"Python,FastAPI,Flask,Service-oriented architecture,ETL,Azure,Cloud Infrastructure,Asynchronous Programming","Kubernetes,Docker"
-Senior Backend Engineer (Python),CTHINGS.CO,Backend,0,Senior,22000,25000,"Python,Linux,CI/CD,FastAPI,MongoDB,REST API,http,gRPC,Docker,low level linux","Protocols,AWS,IoT,Azure IoT,MQTT,Networking,OSI model,Kubernetes,Terraform,open flow protocol,SD-WAN,quic,http3,webtransport,AWS IoT Core,Azure IoT Hub,CoAP,LwM2M"
-Senior Fullstack Python Developer,Grape Up,Fullstack,1,Senior,19800,27700,"Python,SQL,PostgreSQL,JavaScript,TypeScript,React,Redux,REST API,GraphQL,AWS,Terraform,Redux-Saga,API,ECS,AWS ECS,AWS Lambda,AWS S3,Apache Aurora,RDS,Amazon RDS,SQS,Amazon SQS,AWS DynamoDB,AWS CDK","CI/CD,Webpack,Material UI,Unit testing,Selenium,Cypress,BPMN,Serverless computing"
-Mid Python Developer,PROEXE,Backend,1,Mid,16000,22000,"Degree,Python,Web development,Django,SQL,PostgreSQL,REST API,ORM,Celery,GitLab","Docker,pandas,Microservices architecture"
 Python Team Leader (Senior),Volvo Group,Backend,0,Senior,20000,25000,"Python,Microservices,API,Unit testing,TDD,Docker",
-Senior Python Developer,AVENGA,Backend,1,Senior,25200,26880,"Python,Oracle,SQL,Web Services","C++,powershell"
-Python Team Leader (Principal),Volvo Group,Backend,0,Expert,25000,29000,"Python,Microservices,API,Unit testing,TDD,Docker",
 REMOTE Senior Python Developer,apreel Sp. z o.o.,Backend,1,Senior,25200,27720,"Python,Git,Flask,FastAPI,SQL Server,Relational database,Storage,Microsoft Azure,Cloud,Azure DevOps,Azure Functions,Continuous integration,Continuous deployment,Testing,Test-driven development,TDD","JavaScript,Terraform"
 Team Leader / Senior Python Developer,Solwit SA CoC for ALTEN,Backend,1,Senior,22000,28000,"Python,GCP,Django,Fast API",
-Senior Python Developer,AffiniServices Kft (Affinitext Inc),Backend,1,Senior,22096,33144,"Python,Git,Linux,ORM,HTTPD,Web development,Relational database,Operating system,GitLab","Flask,PostgreSQL,Docker,AWS,JavaScript,Angular"
-Junior Associate Software Engineer (Python),MicroStrategy Poland Sp z o.o.,Backend,0,Junior,9500,12000,"Communication skills,Team player,Problem solving,Degree,Python","JavaScript,AI,ML,DevOps,PyTorch,Kubernetes,Docker"
-Python Development Lead,HSBC Technology Poland,Backend,0,Senior,25000,30000,"Degree,Object-oriented programming,Python,Java,C++,C#,MATLAB,Agile,Machine learning,NoSQL",
-Fullstack Developer (Python + Django),Devire,Fullstack,0,Senior,22000,27000,"Python,Django,FastAPI,Flask,JavaScript,React","TypeScript,PostgreSQL,Linux,Bash,Git,Angular,CA,Docker,Kubernetes,Kafka,PHP,Java,C#,Sylius"
+Senior Fullstack Python Developer,Grape Up,Fullstack,1,Senior,19800,27700,"Python,SQL,PostgreSQL,JavaScript,TypeScript,React,Redux,REST API,GraphQL,AWS,Terraform,Redux-Saga,API,ECS,AWS ECS,AWS Lambda,AWS S3,Apache Aurora,RDS,Amazon RDS,SQS,Amazon SQS,AWS DynamoDB,AWS CDK","CI/CD,Webpack,Material UI,Unit testing,Selenium,Cypress,BPMN,Serverless computing"
+Unity & Python Backend Engineer,Unit Group,Backend,1,Senior,22187,26221,"UNITY,Python","Cloud,DevOps,Kubernetes,AWS"
+Senior Python Developer,AVENGA,Backend,1,Senior,25200,26880,"Python,Oracle,SQL,Web Services","C++,powershell"
+Mid Python Developer,PROEXE,Backend,1,Mid,16000,22000,"Degree,Python,Web development,Django,SQL,PostgreSQL,REST API,ORM,Celery,GitLab","Docker,pandas,Microservices architecture"
+Senior Backend Engineer (Python),CTHINGS.CO,Backend,0,Senior,22000,25000,"Python,Linux,CI/CD,FastAPI,MongoDB,REST API,http,gRPC,Docker,low level linux","Protocols,AWS,IoT,Azure IoT,MQTT,Networking,OSI model,Kubernetes,Terraform,open flow protocol,SD-WAN,quic,http3,webtransport,AWS IoT Core,Azure IoT Hub,CoAP,LwM2M"
 Python Engineer with ML (Senior),VirtusLab,Backend,1,Senior,21000,27000,"Python,CI/CD,MLOps,Azure,Spark,Docker,Kubernetes,ML",Java/Scala
-Software Developer (Python),Orange Polska,Backend,0,Mid,10000,15000,"Python,Ansible,REST API,Docker,Kubernetes,Terraform",
+Junior Associate Software Engineer (Python),MicroStrategy Poland Sp z o.o.,Backend,0,Junior,9500,12000,"Communication skills,Team player,Problem solving,Degree,Python","JavaScript,AI,ML,DevOps,PyTorch,Kubernetes,Docker"
+Senior Python Developer,AffiniServices Kft (Affinitext Inc),Backend,1,Senior,22096,33144,"Python,Git,Linux,ORM,HTTPD,Web development,Relational database,Operating system,GitLab","Flask,PostgreSQL,Docker,AWS,JavaScript,Angular"
+Python Team Leader (Principal),Volvo Group,Backend,0,Expert,25000,29000,"Python,Microservices,API,Unit testing,TDD,Docker",
+Python Development Lead,HSBC Technology Poland,Backend,0,Senior,25000,30000,"Degree,Object-oriented programming,Python,Java,C++,C#,MATLAB,Agile,Machine learning,NoSQL",
 Senior Full-stack Python/React Developer,Proxet,Fullstack,1,Senior,20170,28238,"Python,React,TypeScript,JavaScript,PostgreSQL,MySQL,Cassandra,GCP,Cloud,REST API","API,Data engineering"
+Fullstack Developer (Python + Django),Devire,Fullstack,0,Senior,22000,27000,"Python,Django,FastAPI,Flask,JavaScript,React","TypeScript,PostgreSQL,Linux,Bash,Git,Angular,CA,Docker,Kubernetes,Kafka,PHP,Java,C#,Sylius"
+Software Developer (Python),Orange Polska,Backend,0,Mid,10000,15000,"Python,Ansible,REST API,Docker,Kubernetes,Terraform",

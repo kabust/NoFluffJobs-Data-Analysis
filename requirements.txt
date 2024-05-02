@@ -45,7 +45,6 @@ Twisted==24.3.0
 typing_extensions==4.11.0
 urllib3==2.2.1
 w3lib==2.1.2
-
 pip~=23.2.1
 h11~=0.14.0
 trio~=0.25.0
