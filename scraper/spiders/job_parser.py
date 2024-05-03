@@ -6,8 +6,13 @@ class JobParser:
         self.response = response
 
         salary_range = self.__get_salary_range()
-        self.bottom_salary = int("".join(salary_range[:2]))
-        self.top_salary = int("".join(salary_range[3:]))
+
+        if salary_range is not None:
+            self.bottom_salary = int("".join(salary_range[:2]))
+            self.top_salary = int("".join(salary_range[3:]))
+        else:
+            self.bottom_salary = None
+            self.top_salary = None
 
     def get_job_dictionary(self) -> dict:
         return {
@@ -64,8 +69,10 @@ class JobParser:
             self.response.css(selector).getall()
         ]
 
-    def __get_salary_range(self):
-        return self.response.xpath(
+    def __get_salary_range(self) -> list[str] | None:
+        salary = self.response.xpath(
             "/html/body/nfj-root/nfj-layout/nfj-main-content/div/nfj-posting-details/div/common-main-loader/div/"
             "main/article/div[2]/common-apply-box/div/div/common-posting-salaries-list/div/h4/text()[1]"
-        ).get().split()
+        ).get()
+
+        return salary.split() if salary is not None else None

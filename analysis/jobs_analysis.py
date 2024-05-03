@@ -3,7 +3,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt
 
-from utils import apply_bar_counters, make_autopct, plot_technologies
+from analysis.utils import apply_bar_counters, make_autopct, plot_technologies
 
 
 def clean_df(df: pd.DataFrame) -> pd.DataFrame:
@@ -23,7 +23,7 @@ def plot_categories(df: pd.DataFrame) -> None:
 
     apply_bar_counters(categories)
 
-    plt.savefig("plots/category_plot.png")
+    plt.savefig("analysis/plots/category_plot.png")
     plt.show()
 
 
@@ -34,7 +34,7 @@ def plot_remote_non_remote(df: pd.DataFrame) -> None:
     plt.pie(remotes_count, labels=labels, autopct=make_autopct(remotes_count))
     plt.title("Possibilities to work remotely")
 
-    plt.savefig("plots/remote_non_remote_plot.png")
+    plt.savefig("analysis/plots/remote_non_remote_plot.png")
     plt.show()
 
 
@@ -55,7 +55,7 @@ def plot_salaries_by_seniority(df: pd.DataFrame) -> None:
     apply_bar_counters(seniority_count)
     apply_bar_counters(salaries_by_seniority)
 
-    plt.savefig("plots/salaries_by_seniority_plot.png")
+    plt.savefig("analysis/plots/salaries_by_seniority_plot.png")
     plt.show()
 
 
@@ -77,13 +77,13 @@ def plot_salaries_by_category(df: pd.DataFrame) -> None:
 
     apply_bar_counters(salaries_by_category)
 
-    plt.savefig("plots/salaries_by_category_plot.png")
+    plt.savefig("analysis/plots/salaries_by_category_plot.png")
     plt.show()
 
 
 def plot_top_technologies_by_categories(df: pd.DataFrame) -> None:
     fig, axs = plt.subplots(3, 2)
-    fig.set_size_inches(18, 14)
+    fig.set_size_inches(14, 8)
     fig.suptitle("Top 10 technologies required by category (except Python)")
 
     plot_technologies(df, axs, 0, 0)
@@ -95,12 +95,12 @@ def plot_top_technologies_by_categories(df: pd.DataFrame) -> None:
 
     fig.tight_layout(pad=1.5)
 
-    plt.savefig("plots/top_technologies_by_categories_plot.png")
+    plt.savefig("analysis/plots/top_technologies_by_categories_plot.png")
     plt.show()
 
 
 def main():
-    df = pd.read_csv("../jobs.csv")
+    df = pd.read_csv("jobs.csv")
     df = clean_df(df)
 
     df["Salary (mean)"] = (df["Bottom salary"] + df["Top salary"]) / 2
