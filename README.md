@@ -1,4 +1,4 @@
-# NoFluffJobs Python Data Analysis
+# NoFluffJobs Technologies Data Analysis
 
 ## Introduction
 Project consists of two parts: [Scraping](#scraping-process) and [Data Analysis](#data-analysis). 
