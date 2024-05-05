@@ -2,7 +2,7 @@
 
 ## Introduction
 Project consists of two parts: [Scraping](#scraping-process) and [Data Analysis](#data-analysis). 
-I've analyzed Polish region of NoFluffJobs and all information is related to Python vacancies in Poland.
+I've analyzed Polish region of NoFluffJobs and all information is related to vacancies in Poland.
 If you want to try it yourself and get the most up-to-date analysis, go to the [instructions](#how-to-run-locally).
 
 ## Used technologies
@@ -11,6 +11,13 @@ If you want to try it yourself and get the most up-to-date analysis, go to the [
 * NumPy
 * Pandas
 * MatPlotLib
+
+## Analyzed technologies / languages
+* Python
+* Java
+* PHP
+
+and more will be added in future
 
 <hr>
 
@@ -30,7 +37,7 @@ If you want to try it yourself and get the most up-to-date analysis, go to the [
 <hr>
 
 ## Data Analysis
-Overall, those demos were based on 213 entries after cleaning.
+For this example I took Python. Overall, those demos were based on 203 entries after cleaning.
 
 ### Navigation:
 * [Categories by popularity](#categories-by-popularity)
@@ -75,6 +82,7 @@ Each plot shows what are the most required technologies among different fields.
 Make sure you have Python 3.12 installed
 
 ```shell
+git clone https://github.com/kabust/python-technologies-data-analysis.git
 cd Python-technologies-data-analysis
 python -m venv venv
 venv/Scripts/activate
