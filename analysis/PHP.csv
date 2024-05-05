@@ -1,0 +1,62 @@
+Title,Company,Category,Remote,Seniority,Bottom salary,Top salary,Must haves,Nice to haves
+Junior Linux Administrator,Akademia Górniczo-Hutnicza,Sys. Administrator,0,Junior,7000,10000,"Linux,Virtualization,Bash,Git,Ansible,Docker,VMware","Python,GitLab,Bitbucket,Fortinet"
+Wordpress Developer,Coople,Frontend,1,Mid,5000,6000,"WordPress,PHP,JavaScript,Web design,SEO,CI,CD",
+"Senior Full-Stack Engineer, Discover",Box Inc.,Fullstack,0,Senior,30000,35000,"Bachelor's/Master's degree,Java,Scala,JavaScript,PHP","QA Automation experience,SRE background,Practical experience with React"
+"Senior Software Engineer, Relay",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java,web development framework","PHP,Python,public cloud systems,messaging infrastructure,open source project"
+Software Developer (Java),Cinkciarz.pl Sp. z o.o.,Backend,1,Mid,,,"Java,Spring Boot,Hibernate,Git,REST API,Docker,CI/CD Pipelines","Google Cloud Platform,PHP,Frontend"
+Frontend fejlesztő,Duna House Holding Kft,Frontend,1,Mid,7785,13346,"HTML,CSS,JavaScript,Bootstrap,Git","Tailwind,Vue.js,PHP"
+Remote Fullstack Developer,Gett,Fullstack,1,Senior,25903,27522,"backend language experience,server-side application experience,database design,Node.js,React,SPA,Redux,Golang","Golang,MySQL,HTML,CSS,Ruby"
+Application Security Tooling Engineer III,Box Inc.,Security,0,Mid,20500,25500,"DevSecOps Experience,Security tools,OWASP knowledge,Frontend/API focus,Application security",
+Engineering Architect (JS + Java + iOS / Android),1dea,Data,1,Mid,,,"Android,iOS,MVC,MVVM,Web development,Angular,Java,C++,Python,PHP","Data modeling,CI,CD,Jenkins,Puppet,Ansible,Terraform,Project management,SAFe"
+Senior DevOps Engineer z Java,Leroy Merlin Polska,DevOps,1,Senior,,,"Java,Spring Boot,Docker Compose,JFrog,Apache Kafka,Kubernetes,Terraform,Helm,GCP,CI,CD,GitHub Actions,PostgreSQL,MySQL,MSSQL,Datadog,Keycloak,SonarQube,Xray,Checkmarx,Next.js","API Gateway,PHP,JavaScript,Vue.js"
+Frontend Developer,Travactory N. V.,Frontend,0,Mid,14000,20000,"JavaScript,TypeScript,Web services,WordPress,PHP,Relational database,CMS","React,MongoDB,UI,Web applications,Node.js"
+Linux Administrator,Akademia Górniczo-Hutnicza,Sys. Administrator,0,Mid,7000,10000,"Linux,Virtualization,Bash,Git,Ansible,TCP/IP,Docker,VMware,VPN","Python,GitLab,Bitbucket,Fortinet"
+Fullstack Developer (Python + Django),Devire,Fullstack,0,Senior,22000,27000,"Python,Django,FastAPI,Flask,JavaScript,React","TypeScript,PostgreSQL,Linux,Bash,Git,Angular,CA,Docker,Kubernetes,Kafka,PHP,Java,C#,Sylius"
+Project/Product Manager (eCommerce),Tau Ceti Sp. z o.o.,Product Management,1,Senior,14400,20800,,"Agile,Asana,E-commerce,PHP,Symfony,REST API,SOLID"
+Lead Magento Developer,Spyrosoft,Other IT,1,Senior,25200,28560,"Magento,Adobe,PHP,MySQL,Redis,RabbitMQ,Varnish,Swagger,Elasticsearch,Docker,CI,CD pipelines,Jenkins,GitHub",
+DevOps Engineer,Boldare,DevOps,0,Senior,18000,26000,"DevOps,Kubernetes,GitLab,CI/CD,Git,Terraform,ArgoCD,GitOps,PostgreSQL,Prometheus,Loki,Grafana,Ansible,Nginx,Cloudflare","Go,Python,JavaScript,Java,PHP,Ruby"
+Senior Software Backend Engineer,Box Inc.,Backend,0,Senior,30000,35000,"Java,Object-oriented programming","PHP,Scala,GCP,AWS,Azure"
+Staff Software Backend Engineer,Box Inc.,Backend,0,Senior,37000,44000,"10 years experience,Java,developing APIs","PHP,Scala,GCP,AWS,Azure"
+Java DevOps Engineer,Navifleet,DevOps,0,Mid,18000,23000,"Java,Spring,AWS","IoT,Scala,PHP"
+"Senior Software Engineer, Partner Integrations",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java","Java,Node.js,React.js,Kubernetes,PHP"
+Senior DevOps Engineer,NFQ Technologies,DevOps,0,Senior,19400,27540,"Linux,macOS,Azure,DevOps,Bash,Unix,PowerShell,Shell,Docker,Kubernetes,Infrastructure as Code,Terraform,New Relic,Elasticsearch,Logstash,Kibana,Web applications","Java,PHP,E-commerce"
+Full stack Laravel fejlesztő,Promenade Medical Communication Group,Fullstack,1,Mid,8897,13346,"Laravel,PHP,JavaScript,Vue.js,Ajax,HTML,CSS","Git,SQL"
+JavaScript Developer,VML Enterprise Solutions,Frontend,1,Mid,10000,15000,"JavaScript,HTML5,CSS,Sass,LESS,jQuery,Testing,SEO,Security,Git,Continuous integration,Unit testing,Cypress,Grunt,Webpack","Node.js,C#,PHP,TypeScript"
+Wordpress Developer,Woo Agency,Fullstack,0,Mid,8000,11000,"WordPress,HTML5,PHP,JS,CSS,acf,gutenberg blocks,xd,Figma,Photoshop,WooCommerce,JavaScript","React,Python"
+Software Development Engineer,Remitly Poland sp. z o.o.,Backend,0,Mid,20000,23000,Java,"PHP,TypeScript,JavaScript,React native,AWS,Kotlin,Golang,Kubernetes"
+Senior Full Stack Developer (JavaScript and PHP),White Label Coders,Fullstack,1,Senior,20000,25000,"PHP,JavaScript,WordPress,Next.js,TypeScript,WooCommerce",React
+Remote Pentester - Penetration tester,LogicalTrust,Security,1,Mid,8000,14500,"web applications,Security,Linux,Cybersecurity,Cryptography,Cloud security,Operating system,mobile applications,network,OWASP","Kubernetes,Python,Windows,OSCP,Kerberos"
+DevOps Tech Lead - 100 % remote,Power Media,DevOps,1,Senior,25000,35000,"DevOps,Kubernetes,MySQL,MongoDB,CI/CD,Helm,Docker,Varnish,HAProxy,Nginx,Terraform,AWS,PHP","Confluence,Jira,GitLab,Azure,GCP"
+Junior Wordpress Developer,White Label Coders,Fullstack,1,Junior,6720,10080,"WordPress,CSS,Git,PHP,JQuery,SEO,CI,JavaScript",
+Senior Shopware Developer,datrycs,Fullstack,1,Senior,20160,21840,"PHP,shopware,Microservices,CMS,SQL,SaaS","JS,Angular,Vue.js,NoSQL,React"
+Junior Laravel Developer,HypeDev Group sp. z o.o.,Backend,0,Junior,7000,12000,"PHP,MySQL,PostgreSQL,REST API,Git,Laravel","Docker,RabbitMQ,Elasticsearch,Redis,MongoDB"
+Fullstack Wordpress Developer,White Label Coders,Fullstack,1,Mid,13440,16800,"WordPress,CSS,Git,PHP,JQuery,JavaScript,React,gutenberg,Wordpress,HTML,jQuery,REST API","wp-cli,WooCommerce,security,WP - Headless,SEO,Docker,CI"
+Senior WordPress Developer,White Label Coders,Fullstack,1,Senior,13440,21840,"WordPress,Docker,PHP,CSS,Git,wp-headless,WP - CLI,WooCommerce,gutenberg,React,CI/CD",
+Full Stack Developer - MID,Biostat Sp. z o.o.,Fullstack,1,Mid,11000,20000,"JavaScript,UI,HTML,SCSS,PHP,CSS","Node.js,Vue.js,React"
+Full-Stack WordPress Developer,Adaptiq,Fullstack,1,Senior,24284,26308,"PHP,WordPress,React,MySQL,CSS","SCSS,e2e tests,Unit testing,Playwright,Elementor"
+Junior PHP/JS Developer,eVolpe,Fullstack,0,Junior,5000,8500,"PHP,JavaScript,MVC,MySQL,Open source,OOP,Angular","Vue.js,Docker,Elasticsearch,Scrum,React.JS"
+Junior PHP Developer,Thai Pro sp. z o.o.,Fullstack,0,Junior,4500,6000,"PHP,HTML,CSS,JavaScript","TypeScript,Angular"
+Senior PHP Developer,Apilo,Backend,1,Senior,15000,18000,"PHP,OOP,Symfony,Git,CI","REST API,JSON,SOAP"
+Junior PHP Symfony Fullstack,RemoDevs,Fullstack,1,Junior,7000,12000,"PHP,Symfony,TypeScript","Vue.js,React,Doctrine"
+Programista PHP,ViperPrint Sp. z o.o.,Backend,1,Mid,12000,16000,"PHP,MVC,Symfony,Laravel,MySQL,Git",JavaScript
+Remote Mid Backend PHP Developer,PragmaGO.tech,Backend,1,Mid,13000,19000,"PHP,Symfony,PostgreSQL,MySQL,DDD,CI","RabbitMQ,MongoDB,Docker,Elastic Search"
+Staff Software Engineer (PHP),ShiftKey,Backend,1,Expert,23000,26000,"PHP,SQL,AWS",Python
+PHP Symfony Fullstack,RemoDevs,Fullstack,1,Senior,22260,26308,"PHP,Symfony,TypeScript","Vue.js,React,Doctrine"
+PHP Backend Developer with Pimcore,Spyrosoft,Backend,1,Mid,16800,25200,"PHP,MySQL,Redis,RabbitMQ,Varnish,Swagger","Elasticsearch,Docker,Communication skills,Magento"
+"Senior PHP Developer (eCommerce, Headless)",Tau Ceti Sp. z o.o.,Backend,1,Senior,18500,24600,"PHP,Symfony,REST API,SOLID",
+Senior PHP Developer (eCommerce),Tau Ceti Sp. z o.o.,Backend,1,Senior,17500,23600,"PHP,Symfony,Laminas,REST API,SOLID",
+PHP fejlesztő,Crystal Nails,Frontend,1,Mid,12234,15237,"MySQL,MariaDB,OOP,PHP,Symfony,Laravel,Yii,Cache,Git,Linux,JavaScript,jQuery,React","AWS,Cloud hosting"
+PHP Developer with Akeneo,SquareOne,Backend,1,Mid,16800,23520,"PHP,SQL,Akeneo",
+Junior PHP/JS Developer - Tech Support,RTB House,Backend,1,Mid,5000,10000,"PHP,TypeScript,Node.js,JavaScript","API,XML,CSV,JSON,SQL,Git,Linux"
+Programista Backend PHP,Emotivo,Backend,1,Senior,12000,15000,"PHP,Symfony,REST API,SQL,Git,Linux,Elasticsearch,MySQL,RabbitMQ","Docker,PostgreSQL,Redis,React,CSS,TypeScript,HTML"
+Remote Senior PHP Developer # let's talk,Codepole,Backend,1,Senior,25000,30000,PHP,"Laravel,Cosmos DB,ES,Azure,Jenkins"
+Software Developer (Frontend),Cinkciarz.pl Sp. z o.o.,Frontend,1,Mid,,,"JavaScript,Vanilla JS,Webpack,Bootstrap,jQuery,CSS,Git,Docker",PHP
+Akeneo (PHP) Developer,Spyrosoft,Backend,1,Senior,20160,25200,"PHP 8,Akeneo,Docker,Doctrine,SQL,HTML,CSS,Composer,PHP","Magento,Akeneo certificates"
+Senior PHP Developer,Fujitsu Technology Solutions Sp. z o.o.,Backend,0,Senior,16296,22680,"Degree,PHP,Laravel,JavaScript,Vue.js,Test automation,phpunit,psalm,PHPStan,Git,REST API,Communication skills",
+Mid Backend PHP Developer,Wonga.pl,Backend,0,Mid,,,"PHP,OOP,Symfony,Docker,LAMP,Network protocols,CI/CD","DDD,CQRS,Nginx,CMS,CDN,Cloudflare,AWS,AWS EC2,Amazon RDS,Jenkins,AWS ECS,GitHub Actions"
+Remote Mid PHP Developer,Artgeist Sp. z o.o.,Backend,1,Mid,14000,17000,"PHP,Symfony,API,Git,SQL,MySQL,MariaDB,Design Patterns,Clean Code,Docker","Ubuntu,Magento"
+Senior PHP Engineer (Printify),uSoftware,Backend,1,Senior,20237,32379,"PHP,Symfony,DDD,Microservices",CQRS
+Strong Junior/Middle PHP Developer,Infinite Plus,Backend,1,Junior,6498,7364,"PHP,OOP,SQL,MySQL,API,Git,Sympfony,RabbitMQ,Redis","Docker,CI,CD,Jenkins,Amazon Web Services"
+Remote PHP Software Developer,GetResponse S.A.,Backend,1,Mid,12600,20580,"PHP,HTTP,Clean Code,Design Patterns,Relational database,Git,Docker,REST API,API,OWASP",
+PHP Developer with Laravel,Inhabit Polska sp. z o.o.,Backend,1,Mid,18000,21000,"PHP,Testing,REST API,Laravel,Web development,HTML,JavaScript,JQuery,CSS,MariaDB,SQL,Continuous integration,Automated testing,Software Development Life Cycle,CircleCI",AWS
+Programista PHP Fullstack,RTB House,Fullstack,1,Senior,15000,20000,"PHP,PostgreSQL,Symfony,Vue.js,Docker","Communication skills,Web development,Cloud,Degree,OpenAI API"

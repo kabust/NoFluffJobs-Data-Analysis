@@ -42,3 +42,22 @@ def plot_technologies(
 
     axs[x, y].bar(must_haves_labels, must_haves_values)
     axs[x, y].tick_params("x", labelrotation=45)
+
+
+def choose_technology() -> str:
+    choice_map = {1: "Python", 2: "Java", 3: "PHP"}
+
+    while True:
+        try:
+            choice = int(
+                input(
+                    "Choose technology to analyze:\n"
+                    "1: Python\n"
+                    "2: Java\n"
+                    "3: PHP\n"
+                    "-> "
+                )
+            )
+            return choice_map[choice]
+        except (ValueError, KeyError):
+            print("Please, choose a valid option")

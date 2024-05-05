@@ -11,7 +11,7 @@ from .job_parser import JobParser
 
 
 class BaseSpider(scrapy.Spider):
-    name = "jobs"
+    name = "base_spider"
     allowed_domains = ["nofluffjobs.com"]
     start_urls = ["https://nofluffjobs.com/"]
 

@@ -1,4 +1,4 @@
-from scraper.spiders.jobs import BaseSpider
+from scraper.spiders.base_spider import BaseSpider
 
 
 class JavaSpider(BaseSpider):
