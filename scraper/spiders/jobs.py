@@ -10,14 +10,14 @@ from selenium.webdriver.common.by import By
 from .job_parser import JobParser
 
 
-class JobsSpider(scrapy.Spider):
+class BaseSpider(scrapy.Spider):
     name = "jobs"
     allowed_domains = ["nofluffjobs.com"]
-    start_urls = ["https://nofluffjobs.com/Python"]
+    start_urls = ["https://nofluffjobs.com/"]
 
-    def __init__(self, **kwargs):
+    def __init__(self, technology: str, **kwargs):
         super().__init__(**kwargs)
-        self.main_url = "https://nofluffjobs.com/Python"
+        self.main_url = f"https://nofluffjobs.com/{technology}"
 
     def parse(self, response: Response, **kwargs):
         urls = self._get_urls()
@@ -25,22 +25,25 @@ class JobsSpider(scrapy.Spider):
         for url in urls:
             yield scrapy.Request(url, callback=self._scrape_single_job)
 
-    def _scrape_single_job(self, response: Response) -> dict:
+    @staticmethod
+    def _scrape_single_job(response: Response) -> dict:
         job_parser = JobParser(response)
 
         yield job_parser.get_job_dictionary()
 
     def _get_urls(self):
         options = webdriver.ChromeOptions()
-        # options.add_argument("--headless=new")
+        options.add_argument("--headless=new")
         driver = webdriver.Chrome(options=options)
 
         driver.get(self.main_url)
         time.sleep(1)
 
         try:
-            if accept := driver.find_element(By.CSS_SELECTOR, "#onetrust-accept-btn-handler"):
-                accept.click()
+            accept = driver.find_element(
+                By.CSS_SELECTOR, "#onetrust-accept-btn-handler"
+            )
+            accept.click()
         except NoSuchElementException:
             pass
 
@@ -48,7 +51,7 @@ class JobsSpider(scrapy.Spider):
             try:
                 button = driver.find_element(
                     By.CSS_SELECTOR,
-                    "div.tw-flex.tw-flex-wrap.tw-justify-center.tw-my-8.tw-gap-4.ng-star-inserted > button"
+                    "div.tw-flex.tw-flex-wrap.tw-justify-center.tw-my-8.tw-gap-4.ng-star-inserted > button",
                 )
                 button.click()
             except (NoSuchElementException, StaleElementReferenceException):
@@ -56,7 +59,9 @@ class JobsSpider(scrapy.Spider):
 
         urls = [
             url.get_attribute("href")
-            for url in driver.find_elements(By.CSS_SELECTOR, ".list-container.ng-star-inserted > a")
+            for url in driver.find_elements(
+                By.CSS_SELECTOR, ".list-container.ng-star-inserted > a"
+            )
         ]
 
         driver.quit()
