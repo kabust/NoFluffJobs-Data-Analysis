@@ -7,7 +7,9 @@ from analysis.utils import apply_bar_counters, make_autopct, plot_technologies
 
 
 def clean_df(df: pd.DataFrame) -> pd.DataFrame:
-    return df[df["Must haves"].apply(lambda x: not isinstance(x, float) and "Python" in x)]
+    return df[
+        df["Must haves"].apply(lambda x: not isinstance(x, float) and "Python" in x)
+    ]
 
 
 def plot_categories(df: pd.DataFrame) -> None:
@@ -40,9 +42,12 @@ def plot_remote_non_remote(df: pd.DataFrame) -> None:
 
 def plot_salaries_by_seniority(df: pd.DataFrame) -> None:
     seniority_count = df["Seniority"].value_counts().sort_values(ascending=False)
-    salaries_by_seniority = df.groupby("Seniority").mean(
-        "Salary (mean)"
-    )["Salary (mean)"].astype(int).sort_values(ascending=False)
+    salaries_by_seniority = (
+        df.groupby("Seniority")
+        .mean("Salary (mean)")["Salary (mean)"]
+        .astype(int)
+        .sort_values(ascending=False)
+    )
 
     labels = ["Trainee", "Junior", "Mid", "Senior", "Expert"][::-1]
     plt.bar(labels, salaries_by_seniority)
@@ -60,9 +65,12 @@ def plot_salaries_by_seniority(df: pd.DataFrame) -> None:
 
 
 def plot_salaries_by_category(df: pd.DataFrame) -> None:
-    salaries_by_category = df.groupby("Category").mean(
-        "Salary (mean)"
-    )["Salary (mean)"].astype(int).sort_values(ascending=False)
+    salaries_by_category = (
+        df.groupby("Category")
+        .mean("Salary (mean)")["Salary (mean)"]
+        .astype(int)
+        .sort_values(ascending=False)
+    )
 
     labels = salaries_by_category.index.to_list()
 
@@ -112,5 +120,5 @@ def main():
     plot_top_technologies_by_categories(df)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

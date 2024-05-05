@@ -24,7 +24,7 @@ class JobParser:
             "Bottom salary": self.bottom_salary,
             "Top salary": self.top_salary,
             "Must haves": self.get_must_haves(),
-            "Nice to haves": self.get_nice_to_haves()
+            "Nice to haves": self.get_nice_to_haves(),
         }
 
     def get_title(self) -> str:
@@ -34,11 +34,15 @@ class JobParser:
         return self.response.css("#postingCompanyUrl::text").get().strip()
 
     def get_category(self) -> str:
-        return self.response.xpath(
-            "/html/body/nfj-root/nfj-layout/nfj-main-content/div/nfj-posting-details/div/"
-            "common-main-loader/div/main/article/div[1]/common-posting-content-wrapper/div[1]/"
-            "section[1]/ul/li[1]/div/aside/div/a[1]/text()"
-        ).get().strip()
+        return (
+            self.response.xpath(
+                "/html/body/nfj-root/nfj-layout/nfj-main-content/div/nfj-posting-details/div/"
+                "common-main-loader/div/main/article/div[1]/common-posting-content-wrapper/div[1]/"
+                "section[1]/ul/li[1]/div/aside/div/a[1]/text()"
+            )
+            .get()
+            .strip()
+        )
 
     def if_remote(self) -> int:
         remote = self.response.xpath(
@@ -63,11 +67,7 @@ class JobParser:
         )
 
     def __get_all_elements_from_requirements(self, selector: str) -> list[str]:
-        return [
-            element.strip()
-            for element in
-            self.response.css(selector).getall()
-        ]
+        return [element.strip() for element in self.response.css(selector).getall()]
 
     def __get_salary_range(self) -> list[str] | None:
         salary = self.response.xpath(
