@@ -1,0 +1,5 @@
+![category_plot.png](category_plot.png)
+![remote_non_remote_plot.png](remote_non_remote_plot.png)
+![salaries_by_category_plot.png](salaries_by_category_plot.png)
+![salaries_by_seniority_plot.png](salaries_by_seniority_plot.png)
+![top_technologies_by_categories_plot.png](top_technologies_by_categories_plot.png)
