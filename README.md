@@ -1,9 +1,9 @@
 # NoFluffJobs Technologies Data Analysis
 
 ## Introduction
-Project consists of two parts: [Scraping](#scraping-process) and [Data Analysis](#data-analysis). 
-I've analyzed Polish region of NoFluffJobs and all information is related to vacancies in Poland.
-If you want to try it yourself and get the most up-to-date analysis, go to the [instructions](#how-to-run-locally).
+The project consists of two parts: [Scraping](#scraping-process) and [Data Analysis](#data-analysis). 
+I've analyzed the Polish region of NoFluffJobs and all information is related to vacancies in Poland.
+If you want to try it and get the most up-to-date analysis, go to the [instructions](#how-to-run-locally).
 
 ## Used technologies
 * Scrapy Framework
@@ -17,7 +17,7 @@ If you want to try it yourself and get the most up-to-date analysis, go to the [
 * Java
 * PHP
 
-and more will be added in future
+and more will be added in the future
 
 <hr>
 
@@ -50,19 +50,19 @@ For this example I took Python. Overall, those demos were based on 203 entries a
 ![category_plot.png](analysis%2Fplots%2FPython%2Fcategory_plot.png)
 
 As we can see, in May 2024 the most demanded field was Data. 
-After that goes Backend, DevOps, AI, Testing and Fullstack. 
-Other fields doesn't show that significant demand (on NoFluffJobs).
+After that goes Backend, DevOps, AI, Testing, and Fullstack. 
+Other fields don't show that significant demand (on NoFluffJobs).
 
 ### Possibilities to work remotely
 ![remote_non_remote_plot.png](analysis%2Fplots%2FPython%2Fremote_non_remote_plot.png)
 
-Here we can say that 62% of all vacancies offer possibility of the remote work.
+Here we can say that 62% of all vacancies offer the possibility of remote work.
 
 ### Mean salary by category
 ![salaries_by_category_plot.png](analysis%2Fplots%2FPython%2Fsalaries_by_category_plot.png)
 
-On this plot we can see the salary distribution between fields. 
-Worth to mention: Project Manager category contains only 1 entry, so it's not that reliable.
+In this plot, we can see the salary distribution between fields. 
+It's worth mentioning that the Project Manager category contains only 1 entry, so it's unreliable.
 
 ### Mean salary by seniority
 ![salaries_by_seniority_plot.png](analysis%2Fplots%2FPython%2Fsalaries_by_seniority_plot.png)
