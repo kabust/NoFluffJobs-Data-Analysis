@@ -1,0 +1,219 @@
+Title,Company,Category,Remote,Seniority,Bottom salary,Top salary,Must haves,Nice to haves
+Java Developer,Netcompany Poland,Fullstack,0,Junior,8000,15000,"Java,CAN,ROOM,Design Patterns,Manual Testing,Spring Boot,Node.js,Hibernate,Degree,Object-oriented programming",
+Senior Java Developer,Fluke Reliability,Backend,0,Senior,20160,30240,"Java,Spring,Spring Boot,Micro",CI/CD
+Java Developer,AVENGA,Backend,0,Mid,18480,21840,"Java,Spring,Java EE,Hibernate,Object Oriented Analysis,XML,Oracle,SQL,Linux,Communication skills,Ant,Maven,Gradle,Camel","JMS,JBoss,TDD,JUnit,Unit testing"
+Backend Java Developer (remote),Appfire,Backend,1,Mid,13500,18000,"Java,Design Patterns,OOP,Spring,Hibernate,JPA,SQL,REST API,Git,Maven,Docker,Spock,JUnit,Mockito","Domain Driven Design,SaaS,Hexagonal Architecture"
+Java Developer,theITgarden,Backend,0,Junior,10000,12000,"Java,SQL","JavaScript,JUnit,PostgreSQL,Jira,Confluence,UML,BPMN"
+Java Team Leader,AVENGA,Backend,1,Expert,30240,36960,"Java,Spring Boot,Kafka,Kubernetes,Docker,AWS",
+Fullstack Developer – Programista Java - PL/SQL,Avenga,Backend,0,Senior,26880,31920,"Java,ERP,SQL,Oracle,Spring,RabbitMQ,Git","Continuous integration,WebLogic,Docker,Kubernetes,Helm,Linux,Angular,CI"
+Senior Java Developer / Tech Lead - Remote,Inwedo Sp. z o.o.,Backend,1,Senior,16000,22000,"Java,AWS,Azure,Google Cloud","DevOps,JavaScript"
+Senior Java Developer (payment industry),Shiji Poland,Backend,1,Senior,20160,26880,"Java,TDD,Design Patterns,Analytical skills,TypeScript,JavaScript,Git","Kubernetes,Helm,OWASP,Golang,React,Bash,ZSH"
+JAVA Software Engineer II,Jamf,Backend,0,Mid,14000,20000,"Java,Spring Framework,SQL,AWS,Git,Kubernetes,MongoDB","REST API,API"
+Java Developer,Playtika,Backend,0,Senior,,,"Java,Multithreading,Spring Framework,Spring Boot,Spring,REST API,Web services,Kafka,RabbitMQ,NoSQL,Redis,Couchbase Server,Design Patterns,JUnit,Integration test,AppDynamics",
+Senior Java Fullstack Engineer,Intetics,Fullstack,1,Senior,16189,18213,"Java,Spring Boot,Hibernate,REST API",Angular
+DEVELOPER JAVA,PKO BP Finat,Backend,0,Mid,20160,24360,"Java,Java Enterprise Edition,JavaScript,SQL,UML,BPMN,SOAP,Web services","Oracle,Groovy"
+Senior Java Developer – banking industry,Sii Polska,Backend,0,Senior,20000,28000,"Java,Microservices,SQL,Data modeling,Kafka,Big Data,Machine learning",
+Junior Angular Developer - Hybrid,BNP PARIBAS GROUP SERVICE CENTER,Fullstack,0,Junior,5500,10500,"Java,Angular","Relational database,Angular,Spring"
+Fullstack Developer (Java 80% + React 20%),Devire,Fullstack,0,Senior,28560,33600,"Java,React,Functional programming,SQL,AWS","Pure,Alloy,Prometheus"
+Senior Software Engineer,Akamai,Backend,1,Senior,19000,26000,"Python,Linux,Networking,TCP,Protocols,CI/CD","Golang,C++,C,Terraform,DevOps,Puppet,Helm,Ansible"
+Technical Lead (Backend Development),itCraft,Backend,1,Expert,27293,30326,"Azure,NoSQL,SQL,IaaC,Microservices",
+Fullstack Developer – Java with React,Sii Polska,Fullstack,0,Senior,20000,28000,"Java,React",Kubernetes
+Application Security Tooling Engineer III,Box Inc.,Security,0,Mid,20500,25500,"DevSecOps Experience,Security tools,OWASP knowledge,Frontend/API focus,Application security",
+Senior PL/SQL Developer,Sopra Steria Poland,Data,0,Senior,18400,21600,"PL/SQL,Oracle,Communication skills,Degree,SQL,Spark",".NET,Java,JavaScript,TypeScript,Angular,React,Kanban,Writing unit tests,Jira,ALM"
+Developer ESB,Team Connect Sp. z o.o.,Backend,0,Mid,21840,25200,"CI,WSDL,JMS,SOAP,XML,IBM WebSphere,IBM MQ,IBM,TIBCO",IBM App Connect v11/12
+Integration Developer,SquareOne,Sys. Administrator,1,Senior,23520,26880,"ESB,WSDL,JMS,SOAP,XML,Java,Integration","IBM WebSphere,IBM MQ,IBM,TIBCO,webMethods"
+Remote Ferryt Developer,Connectis_,Other IT,1,Mid,20160,25200,"Java,BPMN,SOAP,REST API,XML,Jira,Confluence,SQL","SoapUI,Postman,JMeter"
+Principal Data Scientist Engineer (1/515),Infolet,Data,1,Expert,31920,35280,"C++,Java,Communication skills,Data science","Analytical skills,Data management,Machine learning"
+Fullstack Engineer II,Tesco Technology,Fullstack,0,Mid,20000,27000,"Java,Testing,Spring,Spring Boot,Protocols,CI/CD,Jenkins,Docker,Kubernetes,Cloud platform,Microsoft Azure,TypeScript,React",
+Scala Software Engineer,HERE Technologies,Backend,0,Senior,14000,20000,"Scala,Continuous integration,GitLab,Kubernetes,Grafana,Splunk,Redis,Memcached,Kafka,Unit testing","Spark,Flink,AWS,Java"
+Medior Test Automation Engineer - freelance,TIS Hungary Kft,Testing,1,Mid,11122,13346,"Selenium,Cucumber,API testing,Test automation,Java,JavaScript,Cypress,Rest Assured,E2E testing,CI/CD Pipelines,Git,javascript,JUnit,REST API,API,CI/CD","UI,Web Services"
+Remote Fullstack Developer,Gett,Fullstack,1,Senior,25903,27522,"backend language experience,server-side application experience,database design,Node.js,React,SPA,Redux,Golang","Golang,MySQL,HTML,CSS,Ruby"
+DevOps Engineer,Raiffeisen Tech,DevOps,0,Mid,23100,31500,"DevOps,Docker,Kubernetes,AWS,Networking,Load balancing,Python,CI/CD","Git,Java"
+Data Engineer,Pragmile,Data,1,Senior,23520,26880,"Data structures,Big data,Python","Android,Java,Kotlin"
+"Full-Stack Engineer III, Governance",Box Inc.,Fullstack,0,Mid,22000,26000,3–5 years of experience,"cloud systems,messaging infrastructure,open source project"
+Senior Middleware Consultant (MQ Admin),Bravura Solutions Polska Sp Z o.o.,IT Support,1,Senior,28560,30240,"Linux,WebSphere MQ,AWS,IBM MQ,IMB WebSphere","Windows,Java,Perl,MQ Administration,PowerShell"
+"Full-Stack Engineer III, Relay",Box Inc.,Fullstack,0,Mid,22000,26000,3–5 years of experience,"public cloud systems,open source project,Business process management"
+Senior AI Engineer - Remote,7N,AI,1,Senior,30240,38640,"Python,R,Java,C++,AI,TensorFlow,PyTorch,Data analysis",
+Python Engineer with ML (Senior),VirtusLab,Backend,1,Senior,21000,27000,"Python,CI/CD,MLOps,Azure,Spark,Docker,Kubernetes,ML",Java/Scala
+Remote Senior Data Engineer,Varwise,Data,1,Senior,30355,40474,"Spark,AWS,Linux,NoSQL,SQL,Kafka,Java,Scala,AWS Lambda,Glue,Athena,Cassandra,Neo4j,Databricks,PySpark","Kinesis,Airflow,Jenkins,Datadog,Python,TensorFlow"
+Senior Software Engineer (DevOps),Snowflake,DevOps,0,Senior,30000,60000,"SaaS,CI/CD,Python,Node.js,AWS,Azure","Git,Jira,Nexus,Artifactory,Jenkins,Kubernetes,Docker,Databases,SQL"
+"Software Engineer III, Full-Stack",Box Inc.,Fullstack,0,Mid,22000,26000,3–5 years of experience,"Open source,Public cloud,AWS,GCP,Azure,RabbitMQ,Kafka"
+"Senior Full-Stack Engineer, Discover",Box Inc.,Fullstack,0,Senior,30000,35000,"Bachelor's/Master's degree,Java,Scala,JavaScript,PHP","QA Automation experience,SRE background,Practical experience with React"
+Senior Networking Data Scientist,Akamai,Data,1,Senior,19000,20000,"Analytics,Statistics,Data analysis","Python or Perl or SQL or Java or C orR,Internet Protocol"
+"Senior Software Engineer, Full-Stack",Box Inc.,Fullstack,0,Senior,30000,35000,"Extensive experience (5+ years),full-stack solutions","Open source,Public cloud,AWS,GCP,Azure,RabbitMQ,Kafka"
+Tester automatyzujący,Pentacomp Systemy Informatyczne S.A.,Testing,1,Senior,16000,19000,"SoapUI,Team player,Communication skills,Critical thinking,Problem solving,Proactivity,.net","C#,Java,Selenium,Postman,Docker"
+Mid/Senior Data Engineer (AWS/GCP),Capco Poland,Data,1,Mid,25200,30240,"Python,Degree,Data pipelines,SQL,Athena,Redshift,Glue,Terraform,Outlook,ETL,AWS,GCP","dbt,PySpark,Java,Kotlin"
+Web Designer / Developer,Devire,Design,0,Mid,8000,16000,Java Script,
+Middle React Native Developer,MasterBorn,Mobile,1,Mid,12000,19000,"React native,Data management,JavaScript,TypeScript,React","Next.js,Node.js,AWS,Scrum"
+Software Engineer Go/Kotlin,Allegro,Backend,0,Mid,14200,19690,"Go,Java","GCP,Kubernetes,Istio,Service mesh"
+Fullstack Developer (Python + Django),Devire,Fullstack,0,Senior,22000,27000,"Python,Django,FastAPI,Flask,JavaScript,React","TypeScript,PostgreSQL,Linux,Bash,Git,Angular,CA,Docker,Kubernetes,Kafka,PHP,Java,C#,Sylius"
+Lead Big Data Engineer (AWS),SoftServe,Data,0,Expert,25000,30000,"AWS,Python,Scala,Java,SQL,Apache Spark,Databricks,Flink,MWAA,Apache Airflow,Apache Kafka,MSK,Kinesis,Amazon Redshift,Snowflake",
+QA Engineer,AVENGA,Testing,1,Senior,20160,23520,"RestAssured,Playwright,Java",GitLab
+Administrator Aplikacji (Wsparcie aplikacji),Link Group,Sys. Administrator,0,Mid,16800,21000,"Microsoft,MS SQL,Windows,Linux,konteneryzacja,Systemy ticketowe,.NET,Java",CI/CD
+DevOps Engineer,KYP.ai,DevOps,1,Senior,15120,21000,"Docker,Ansible,Bash,PostgreSQL,GitLab,TeamCity,Windows,Linux,VMware","SonarQube,Redis,Kafka,Terraform"
+Quality Assurance Engineer - Mobile Testing,Phorest,Mobile,1,Mid,14439,16246,"Java,Problem solving,ios,Android,AD,JavaScript","Cypress,Nosql,CI/CD,CAN,GitHub,Maestro,Testiny"
+Senior Software Engineer - Connectors Platform,Snowflake,Backend,0,Senior,30000,60000,"Python,Java,SQL",
+Senior Android Engineer,N-iX,Mobile,1,Senior,18213,19022,"Android,Kotlin,Java","Bluetooth,BLE"
+"Senior Software Engineer, Web",Speechify,Frontend,1,Senior,20237,40474,"Vanilla JS,Redux,Firebase,ReactJS,TypeScript,Java,JavaScript",
+DevOps Engineer,Boldare,DevOps,0,Senior,18000,26000,"DevOps,Kubernetes,GitLab,CI/CD,Git,Terraform,ArgoCD,GitOps,PostgreSQL,Prometheus,Loki,Grafana,Ansible,Nginx,Cloudflare","Go,Python,JavaScript,Java,PHP,Ruby"
+Senior Site Reliability Engineer,Wipro IT Services Poland,DevOps,0,Senior,22050,27300,"Python,Hadoop,Kafka,Linux,Automation,Big Data,Software Development Life Cycle,Unix","HBase,Java,Spark"
+Solution Architect,Sopra Steria Poland,Design,0,Expert,22680,31920,"Communication skills,Degree,AWS",".NET,Java,Vue.js,C++,Angular"
+Senior Software Engineer in Test (Backend),Snowflake,Testing,0,Senior,30000,60000,"Python,Java,C++,Test automation,Continuous integration,Git,Continuous deployment,Jenkins,SQL",Docker
+Remote AI Senior Software Developer,Matrix Global Services,Backend,1,Senior,36824,42456,"Python,Degree,Java,Big data,ETL,Infrastructure as Code,SQL,Redshift,AWS,C#","ML,AI,LLM"
+Senior PL/SQL Developer,7N,Data,0,Senior,25200,30240,"SQL,PL/SQL,ERP,Oracle,Java,Unit testing,Integration test","Spring,Git,Oracle Designer,RabbitMQ,Docker,Kubernetes,Angular,Weblogic Serwer,Continuous integration,CodeReview"
+Application Solution Architect,Avanade Poland,Architecture,0,Expert,25200,36960,".NET,Azure,AWS,DevOps,CI/CD",".NET Core,OOP,Microsoft Azure"
+JasperReports Developer,People Trust Sp. z o.o.,Data,1,Mid,22176,25872,"JasperReports,Oracle/PostgreSQL,XML,Relational database,Oracle,PostgreSQL,CAN","Oracle Reports,Other reporting technologies,PL/SQL Developer,PL/pgSQL Developer,Java,JavaScript"
+PL/SQL Developer,apreel Sp. z o.o.,Data,0,Senior,25200,30240,"SQL,CI,CIS,ERP,Java,Spring,Oracle,RabbitMQ,Git","Continuous integration,WebLogic,Docker,Kubernetes,Helm,Linux,Angular,Oracle database"
+Senior DevOps Engineer - AWS - Remote,Link Group,DevOps,1,Senior,26800,28500,"AWS,Kubernetes,Go, Ruby, Python, Erlang, or Java,Linux,Infrastructure as Code,Terraform,Microservices,Communication skills",
+Manual Tester - B2B contract for 3 months,VML Enterprise Solutions,Testing,1,Mid,10000,13000,"Communication skills,web applications testing,Team player,creativity,SQL,REST API,Manual Testing,Manual tests","Jira,Confluence,Atlassian,Java"
+Senior Software Engineer - Data Clean Rooms,Snowflake,Data,0,Senior,30000,60000,"Java,Distributed Systems",ML
+Senior Remote AI Engineer,Strategic Staffing Solutions,AI,1,Senior,25200,30240,"Degree,Machine learning,Open AI,Google AI,Azure AI,Python,Java",
+Automatyk w branży HVAC,Otto Engineerng Polska Sp. z o.o.,Automation,0,Mid,8000,12000,"Java,JavaScript,HTML,LAN","WinCC,TIA"
+Tier 3 Support Engineer,Codete,Other IT,1,Mid,16800,20160,"Communication skills,Docker,Kubernetes,Java,Python,Operating system,Networking,Protocols,Cloud",
+Senior Test Automation Engineer - Remote,Link Group,Testing,1,Senior,23520,25200,"Python,Java,Test automation,E2E,TDD,BDD,Page Object Model,Agile,Scrum,CI/CD,Bamboo,Jenkins",
+Senior Data Engineer (Azure),GetInData | Part of Xebia,Data,1,Senior,26880,33600,"Python,Databricks,Kafka,Git,Airflow,Docker,Terraform,CI/CD,Microsoft Azure,Azure DevOps",
+Junior Site Reliability Engineer,Wipro IT Services Poland,DevOps,0,Junior,17850,19950,"Python,Linux,Automation,Software Development Life Cycle,Unix,Kubernetes","Java,Docker,Virtualization"
+Python Development Lead,HSBC Technology Poland,Backend,0,Senior,25000,30000,"Degree,Object-oriented programming,Python,Java,C++,C#,MATLAB,Agile,Machine learning,NoSQL",
+Senior Frontend Developer,"Dunning, Kruger & Associates Sp. z o.o.",Frontend,0,Senior,21840,30240,"TypeScript,React,Redux,Git","Python,Java,Open API,RTK Query"
+Senior BigData Developer,ITDS,Data,0,Senior,16800,25200,"Big Data,Data warehouses,Data management,Python,Scala,Java,Hive,Kudu,HBase,Agile,Kafka,Apache Nifi,Ansible",Kubeflow
+"Senior Frontend Engineer, Relay",Box Inc.,Frontend,0,Senior,30000,35000,"5 years experience,HTML,CSS,JavaScript","Node.js,Java,public cloud systems"
+Test Automation Engineer,AffiniServices Kft (Affinitext Inc),Testing,1,Senior,20019,27805,"Python,Linux,GitLab,JavaScript,Playwright,Test case,ISTQB,Kanban,Test automation","PostgreSQL,Docker,Angular,Bash,Selenium,Java"
+Senior QA Automation Engineer,Travelplanet.pl SA (Invia Group),Testing,0,Senior,18000,23000,"QA,Automated testing,Degree,Test automation,Python,Java,JavaScript,Testing,Cypress,Selenium","Git,Web applications,ISTQB"
+C++ Build Engineer (Expert),VirtusLab,Backend,1,Expert,26000,31000,"C++ build engineering,C++,Bazel,Git,Scripting python / Windows/ Linux shell,Java","Java / Kotlin / Scala / Go,Premake"
+Big Data Engineer,Kontakt.io,Data,1,Senior,26880,31920,"Python,Java,Kafka,AWS,Microservices architecture,MongoDB,PostgreSQL,Prometheus,Kubernetes,Big Data","Kotlin,Scala"
+SOA Developer (Oracle),Devire,Sys. Administrator,1,Mid,15000,25000,"Oracle,Oracle database,PL/SQL,XML,Java,SOAP,REST API,Security,SOA","Cloud,Integration test,Test automation"
+Senior QA Automation Engineer,Wonga.pl,Testing,0,Senior,,,"iOS,Android,API,REST API,GraphQL,SQL,React Native,CI,JavaScript,Python,Java,Swift,Jenkins,Communication skills",NUnit
+Intern Software Engineer (Front-end),VML Enterprise Solutions,Frontend,0,Trainee,5376,6216,"JavaScript,TypeScript",Java
+Młodszy/a Specjalista/stka Testów Automatycznych,Centralny Ośrodek Informatyki,Testing,1,Junior,5000,6000,"SQL,JavaScript,Java,Git","Selenium,JMeter,ISTQB"
+Devops/Release Engineer,Reply Polska,DevOps,0,Senior,23520,33600,"Openshift,Azure Cloud,Kubernetes,Docker,AKS,Istio,Bash,Python,PowerShell,Ansible,Terraform,TLS,LDAP,OAuth,Spring Boot,Git,Azure DevOps,CI,CD tools,Maven,SonarQube,Jenkins",
+Data Engineer in Microsoft Azure Cloud,Avanade Poland,Data,1,Mid,19320,29400,"Azure,Python,SQL,C#,CAN,Databricks,Azure Synapse,Neo4j,Java,C++,SQL Server,Snowflake,Azure IoT","Azure Data Lake,Azure Data Factory,Machine learning,Azure Databricks,MySQL,Azure Data,Data engineering,Cosmos DB,Azure Cloud,Git"
+Senior Data Engineer,Inter Cars S.A.,Data,1,Senior,23000,28000,"Degree,Data engineering,ETL,Data modeling,Python,Java,Scala,Big data,Hadoop,Spark,Storage,Relational database,SQL,HBase,Hive,Azure,GCP,Airflow,Kafka",
+SEO Specialist,Emoti Group,Marketing,1,Senior,,,"Search engine optimization,SEO,Analytical skills,HTML,Java Script","SQL,Python"
+Senior QA Python,AVENGA,Testing,1,Senior,24360,27720,"Quality assurance,Python,Java,Shell,Testing,XML,SQL,Unix,Jira,Test automation","SVN,JMeter,Selenium,ALM,Test management,Communication skills"
+Data Engineer (Spark),GetInData | Part of Xebia,Data,1,Mid,18480,26880,"Java,SQL,Spark,Python",
+Technical Manager,Motorola Solutions Systems Polska,Project Manager,0,Mid,18000,26000,"Azure,AWS,Google Cloud,Communication skills,Rust",
+Senior DevOps Engineer,NFQ Technologies,DevOps,0,Senior,19400,27540,"Linux,macOS,Azure,DevOps,Bash,Unix,PowerShell,Shell,Docker,Kubernetes,Infrastructure as Code,Terraform,New Relic,Elasticsearch,Logstash,Kibana,Web applications","Java,PHP,E-commerce"
+Senior Software Engineer,Transition Technologies PSC S.A.,Backend,1,Senior,20160,25200,"C++,GitHub,Jenkins,C,CD,Analytical skills","CLI,MySQL,RabbitMQ,CI/CD,Python,Bash,AWS,Azure,GCP,Protocols,C#,OSI,Java,Network protocols"
+Senior QA Automation Engineer,Innovecs,Testing,1,Senior,19832,21451,"TypeScript,JavaScript,Java,Jest,end-to-end testing,regression testing,Automated testing,API testing",
+Senior Software Engineer - Cloud Engineering,Snowflake,Data,0,Senior,40000,80000,"Go,Cloud computing,Container,Terraform","AWS,Azure,GCP,Java,Python,C,Pulumi"
+Senior Software Engineer - Developer Experience,Snowflake,Backend,0,Senior,30000,60000,Golang,"Python,C++,Java"
+Data Engineer,SEB (Skandinaviska Enskilda Banken),Data,0,Mid,28000,32000,"CI/CD,Spark,Container","GCP,Scala,Java,Python,Spark,Kubernetes,Kafka,OpenShift,GitHub Actions,Cloud,Airflow"
+Application Security Consultant,Devire,Security,1,Mid,25200,28560,"Security,DevOps,OWASP,AWS,Azure,Cloud,Docker,Kubernetes,Terraform,Ansible,Application lifecycle management,GitHub,SAST,DAST,CIS,NIST,SDLC,PLM",
+Software Developer,Jacobs,Backend,0,Mid,,,"PySpark,Java,C,TypeScript,JavaScript,APIS,Python",
+Software Engineer - Scala (f/m/d),Prewave GmbH,Backend,0,Mid,17329,19856,"Scala,Java,Kotlin,Haskell,Relational database,GCP","AWS,NoSQL,Kubernetes,Linux,Shell"
+Big Data Engineer IV,OpenX,Backend,1,Senior,30240,34944,"Scala,Cloud,Kubernetes,Java","Docker,Spark,Jenkins,Hadoop,Data engineering,Python"
+"Senior Frontend Developer (React, Next.js)",Fincorex,Frontend,0,Senior,17000,22000,"React,CSS,JavaScript,HTML,Java Script,UX,UI,REST API,Git","SQL,Java,Spring Boot,Tailwind,Redux"
+Senior TechLead,Datev,Architecture,0,Senior,26470,33090,"Spring Boot,Angular,Kafka,PostgreSQL,MongoDB,Maven,Jenkins,JPA,Git",
+Remote Pentester - Penetration tester,LogicalTrust,Security,1,Mid,8000,14500,"web applications,Security,Linux,Cybersecurity,Cryptography,Cloud security,Operating system,mobile applications,network,OWASP","Kubernetes,Python,Windows,OSCP,Kerberos"
+Konsultant EPM (FP&A),Fincorex sp. z o. o.,Finance,0,Senior,15000,25000,"BI,Excel,SQL","ERP,HFM"
+Software Developer,NetworkedAssets,Backend,0,Mid,12000,22000,"JVM,Functional programming,Communication skills,Kotlin","Scala,Java,Arrow,Cats,Akka,AWS,IaC,Terraform,Haskell,ZIO"
+QA Engineer,Bamboo Health Sp. z o.o.,Testing,1,Mid,12700,16600,"Java,Selenium,QA,Test strategy,Software Development Life Cycle,Jenkins,Linux,Communication skills,Manual tests,Automated testing,SQL,Docker,Kubernetes","AWS,REST API,Jira"
+Senior Sotfware Engineer - Drivers (C++),Snowflake,Backend,0,Senior,30000,60000,"C++,SQL,RDBMS","REST API,RPC,GraphQL,Java,Node.js,Go"
+Senior Analityk Biznesowo-Systemowy,apreel Sp. z o.o.,Business Intelligence,0,Senior,26880,28560,"SQL,PL/SQL,Oracle,UML,BPMN,Enterprise Architect,ERP","Java,ISTQB"
+Senior Data Engineer,Link Group,Data,0,Senior,27000,32000,"Python,Scala,Java,Spark,PySpark,Kubernetes","MLOps,DevOps"
+Kotlin & Java Software Engineer,hyperexponential,Backend,0,Mid,20000,25000,"Java,Kotlin","AWS,Cloud,Hibernate,Spring,Spring Framework"
+Senior Big Data Engineer (Scala/Python) - Data&AI,Allegro,Data,0,Senior,18400,25410,"Scala,Python,Java,Spark,GCP,Azure,AWS,Clean Code,TDD,CI/CD,Unix,Linux",
+Specjalista ds. rozwoju systemów UTM,Polska Agencja Żeglugi Powietrznej,Product Management,0,Mid,7000,10000,"Lotnictwo,Informatyka,Zarządzanie projektami,BPS,Loty BSP,Przepisy lotnicze,U-space,Umiejętność pracy projektowej","Uprawnienia do wykonywania lotów,(STS/NSTS),Java,Elektronika BSP,Licencja PPL,Uprawnienia lotnicze,Komunikacja,Media społecznościowe"
+Principal Software Engineer (Java / Kotlin/ AAOSP),HERE Technologies,Backend,1,Expert,33600,42000,"Java,Kotlin,Android","Problem solving,AWS,ECS,AWS ECS,AWS EC2,AWS S3,Amazon RDS,Virtualization,Docker,Python,C++,AOSP"
+Engineering Architect (JS + Java + iOS / Android),1dea,Data,1,Mid,,,"Android,iOS,MVC,MVVM,Web development,Angular,Java,C++,Python,PHP","Data modeling,CI,CD,Jenkins,Puppet,Ansible,Terraform,Project management,SAFe"
+Backend Engineer (Java/Kotlin/AWS),Capco Poland,Backend,1,Senior,30240,31920,"Kotlin,Java,Terraform,AWS,Git,Continuous integration,Degree,Infrastructure as a Code,Communication skills",Python
+Engineering Manager,AVENGA,Product Management,1,Expert,28560,36960,"Management,Engineering,Microservices,Java,Kafka,Docker,Kubernetes,AWS",
+Senior Data Engineer (Flink),GetInData | Part of Xebia,Data,1,Senior,26880,33600,"Flink,Java,Airflow,Kafka,Spark,Cloud",
+Software Engineer (REMOTE),ZaWin (Martin Engineering AG),Backend,1,Senior,20019,24468,"Azure,Windows,Office 365,Infrastructure as Code,Intune,Microsoft Azure,Azure AD,.NET","Blazor,React,HTML,CSS,JS"
+Software Architect/ Angular,apreel Sp. z o.o.,Frontend,0,Senior,28560,31920,"Angular,HTML5,CSS,JavaScript,TypeScript,RxJS,REST API,Jenkins,Jira,Bitbucket,Confluence","Java,Spring,Spring Boot,Hibernate"
+Automation Tester JavaScript - B2B 3 months,VML Enterprise Solutions,Testing,1,Mid,11000,15000,"Communication skills,web applications testing,Team player,Cypress,Protractor,BDD,Oracle,DB2,JavaScript,DB Visualiser,Unix,Jira,GCP,AWS,GitHub,Bitbucket",
+Spark (Scala or Java) Developer,ComScore (via CC),Data,1,Mid,10000,16000,"Spark,Java,Scala,Linux","AWS,Hadoop"
+Senior Data Engineer (1295),N-iX,Data,1,Senior,15380,23474,"Docker,Kubernetes,Cloud Native,Python,Data engineering,ETL,Kafka,Kinesis,Spark,Scala,TypeScript,Java","Open source,Data science,MLOps,Kotlin,GCP,AWS,Azure,MSSQL,Terraform"
+Fullstack Java Developer,Devire Sp. z o.o.,Backend,0,Mid,25200,31080,"Data structures,Java,JavaScript,Spring Boot,REST API,SQL","ETL,Degree,AWS"
+Senior Test Automation Engineer IV,OpenX,Testing,1,Senior,27888,32088,"Test automation,CI,CD tools,Spinnaker,Jenkins,Python,Java,cloud,Backend","Cypress,UI testing,GCP,Kubernetes,Docker"
+Senior Kotlin/Java Software Developer,Hitachi Energy,Backend,0,Senior,12000,18000,"Kotlin,Degree,Java,Spring Framework,Linux,Docker,PostgreSQL,TypeScript,JavaScript,Communication skills",HTML5
+Remote FullStack Developer (React + Java),RemoDevs,Fullstack,1,Senior,28331,30760,"React,JavaScript,Java","Linux,MongoDB,Kubernetes,Helm,Cloud"
+Senior Fullstack Developer (Kotlin/Java + Angular),Euvic S.A.,Fullstack,1,Senior,21840,25200,"Kotlin,Java,Angular,AD,Groovy,Spring Boot,Docker,AWS,Git,SQL","Terraform,Kubernetes,Gradle,Kafka"
+DevOps Engineer,Appfire,DevOps,1,Mid,13000,18300,"DevOps,Degree,Java,Python,AWS,AWS EC2,ELB,Amazon RDS,Route53,Jenkins,Docker","Kubernetes,GCP,IaC,Terraform,Ansible,ELK Stack,Grafana"
+Senior Fullstack Developer (Java/Kotlin),NetworkedAssets Sp. z o.o.,Fullstack,0,Senior,21000,32000,"Java,Kotlin,JavaScript,Spring Boot","TypeScript,Vue.js,React,Angular,AWS,IaC,Pulumi"
+Junior Devops,Lotnicze Pogotowie Ratunkowe,DevOps,0,Junior,7000,12000,"DevOps,CI/CD,Docker,Kubernetes,Grafana,WildFly,REST API,YouTrack,GitLab,Prometheus,Elasticsearch,Git,Java","SQL,PostgreSQL,Redis,MongoDB,Oracle DB,Python,Java,JBoss"
+Programista PL/SQL - Oracle Forms,AVENGA,Data,0,Mid,25200,31920,"PL/SQL,Oracle,oracle forms,SQL,Spring,RabbitMQ,Git,Java,ERP","Continuous integration,WebLogic,Docker,Kubernetes,Helm,Linux,Angular,CI"
+Software Developer in Test,Avenga,Testing,1,Senior,26880,33600,"Java,JavaScript,TypeScript,Microservices,BDD",
+IT Architect Senior,FIS Techlology Services (Poland) Sp. z o.o.,Architecture,0,Senior,,,"Java,Oracle,JEE,JPA,Kubernetes,Docker,Unix,EJB,Postgress",knowledge of OPF (Open Payment Framework
+Senior QA Automation Developer,Mend.io,Testing,1,Senior,24284,26308,"Java,Linux,Windows,API testing,web applications,cloud native,Team player,Proactivity","Selenium,Jenkins,Docker,Github actions,aws,API,CI/CD,GitHub Actions,GitLab CI,OWASP,AWS,Playwright,Degree"
+DevOps /Configuration Management Software Engineer,Hitachi Energy,DevOps,0,Mid,9000,14000,"Java,Degree,DevOps,iptables,RHEL,Jenkins,Azure,CI","IaC,Ansible,Linux,Bash,Git,Kubernetes,Bazel,MSBuild"
+Platform Engineer,AVENGA,DevOps,0,Mid,28560,33600,"Java,Kafka,Kubernetes,AWS,Terraform,Cloud Native,CI,CD,go",
+Intern Quality Assurance Engineer,VML Enterprise Solutions,Testing,0,Trainee,5376,6216,"Java,Quality assurance",
+DevSecOps Engineer,Sii Polska,DevOps,1,Mid,24000,30000,"Java,Cloud Security","Kubernetes,linux,Docker,Jenkins"
+Non-Functional Testing Engineer,Reply Polska,Testing,1,Senior,23520,33600,"Web services,Network protocols,SSL,TCP,REST API,Scala,Linux,Shell,Windows,Script,Eclipse,Jenkins,CLI,Maven,Vert.x,Kustomize,SFTP,Git,Java","Jenkins pipeline,OpenShift,Oracle,RAC,MONGO,Kafka,JVM,HA"
+Software Engineer - Business Systems - Remote,Phorest,Backend,1,Mid,19854,27076,"Java,JVM,REST API,CI/CD,Design Patterns,SQL","Docker,AWS,Big data,Python,Kotlin,Kafka"
+"Software Engineer (Java, Big Data Team) - Data&AI",Allegro,Data,0,Senior,18400,25410,"Java,Scala,Kotlin,TDD,CI/CD,Unix,Linux,ML,AI",
+Senior DevOps Engineer z Java,Leroy Merlin Polska,DevOps,1,Senior,,,"Java,Spring Boot,Docker Compose,JFrog,Apache Kafka,Kubernetes,Terraform,Helm,GCP,CI,CD,GitHub Actions,PostgreSQL,MySQL,MSSQL,Datadog,Keycloak,SonarQube,Xray,Checkmarx,Next.js","API Gateway,PHP,JavaScript,Vue.js"
+DevOps Java Engineer,Motorola Solutions Systems Polska,DevOps,0,Mid,14000,18000,"Java,BS,Degree,Communication skills,REST API,DevOps,Protocols,OSI,SIP,HTTP",
+Java DevOps Engineer,Navifleet,DevOps,0,Mid,18000,23000,"Java,Spring,AWS","IoT,Scala,PHP"
+"Senior Software Engineer, Relay",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java,web development framework","PHP,Python,public cloud systems,messaging infrastructure,open source project"
+Solution Architect (Java),Cloudflight,Architecture,1,Senior,25200,30240,"Domain-driven design,Microservices,Kafka,Java",
+Junior Quadient Integrator,Quertum,Fullstack,0,Junior,6000,7000,"XML,Java","JavaScript,Python,Ruby,Quadient"
+"Big Data Engineer (Java, GCP)",Avanade Poland,Data,1,Senior,20160,30240,"Java,Google Cloud,Spring Boot,Google cloud platform","SQL,Scrum,Kanban"
+"Senior Software Engineer, Content Experiences",Box Inc.,Frontend,0,Senior,30000,35000,"5+ years experience,BS, MS, or PhD,frontend libraries and frameworks","Node.js,Java,public cloud systems"
+Fullstack Developer,ITDS,Fullstack,0,Senior,20000,30500,"Degree,Communication skills,Java,C++,Spring Boot,Maven,SQL,React,DropWizard",
+Senior Search Engineer,Grid Dynamics,Backend,0,Senior,22000,29000,"Java,Elasticsearch,Solr,Team player,Communication skills,Critical thinking,Problem solving,Proactivity","AWS,Docker,Cassandra"
+Mid / Senior Fullstack Developer,Link Group,Fullstack,0,Mid,22680,25200,"Java,Spring Boot,Angular",
+Software Development Engineer,Remitly Poland sp. z o.o.,Backend,0,Mid,20000,23000,Java,"PHP,TypeScript,JavaScript,React native,AWS,Kotlin,Golang,Kubernetes"
+Junior Developer Backend,Reply Polska,Backend,0,Junior,5000,9000,"Java,Kanban,TDD",
+"Senior Software Engineer, Partner Integrations",Box Inc.,Backend,0,Senior,30000,35000,"5+ years of experience,Java","Java,Node.js,React.js,Kubernetes,PHP"
+Fullstack Developer,Raiffeisen Tech,Fullstack,1,Senior,22000,30000,"Java,Angular,JavaScript,GWT,Spring Boot,Hibernate,CSS,HTML,REST,Swagger,SQL,Gradle,Git,Degree,JPA,API,REST API,CI,Communication skills",
+Fullstack Developer (Java+Angular),Team Connect Sp. z o.o.,Fullstack,0,Senior,26880,31920,"Java,Angular,Spring Boot,Hibernate,JPA,RabbitMQ,REST API,SOAP,Kafka,JUnit,MongoDB,PostgreSQL,Oracle,TypeScript,CI","OpenShift,Jenkins,Kotlin,Enterprise Architect"
+Automotive Backend Developer,Grape Up,Backend,0,Mid,20000,26000,"Java,Kotlin,Microservice architecture,MQTT,MongoDB,Kafka,Security,Communication skills","Rust,Quarkus,GraalVM"
+Senior Backend Developer,Kahoot! Poland,Backend,1,Senior,26880,33600,"5+ years experience as a Backend develop,Java,Docker,Kubernetes,Amazon Web Services,Google Cloud Platform",
+Junior Fullstack Software Engineer,Beekeeper AG,Fullstack,0,Junior,11300,14250,"Java,JavaScript,TypeScript,Web technologies,Backend,Frontend","Python,Vue.js"
+Senior Software Backend Engineer,Box Inc.,Backend,0,Senior,30000,35000,"Java,Object-oriented programming","PHP,Scala,GCP,AWS,Azure"
+Intern Software Engineer (Fullstack),VML Enterprise Solutions,Fullstack,0,Trainee,5376,6216,Java,"JavaScript,Cloud,Cloud development"
+Software Architect,Motorola Solutions Systems Polska,Backend,0,Expert,23000,26000,"Java,Spring Boot,Analytical skills,Microservices,REST API,Kubernetes,Docker,AWS,Azure,Automated testing","Networking,SIP,RTP,Angular"
+Staff Software Backend Engineer,Box Inc.,Backend,0,Senior,37000,44000,"10 years experience,Java,developing APIs","PHP,Scala,GCP,AWS,Azure"
+Senior back-end developer (Switch to Go),TechMagic,Backend,1,Senior,,,"Java,Python,Node.js,JavaScript,AD,CAN,Machine learning",NLP
+Solution Architect,RemoDevs,Backend,1,Expert,32000,35000,"Java,Microservices,AWS,WooCommerce,Magento,PrestaShop,API,API design,API Security,IAM,JVM,Node.js,TypeScript,React",
+"Manager, Software Engineer",Jamf,Fullstack,1,Mid,18000,22000,"Java,Enterprise software,C,Swift,MySQL,Ruby,Python,Eclipse,iOS,Atlassian,Jira,Confluence,Bamboo,Kanban",
+Full-Stack Developera,Ness Solution Sp. z o. o.,Fullstack,1,Senior,21840,25200,"Java,React,JavaScript,TypeScript,Oracle,SQL,PL/SQL,Spring,Kafka,Maven,Git,Bitbucket,Docker","AWS,ESB,Liquibase,Jenkins,Elasticsearch,Logstash,MongoDB"
+Senior Backend Engineer,Appfire,Backend,1,Senior,18000,25000,"Java,Web technologies,Scala,Node.js,React","OOP,AWS,GCP,Azure,Web applications"
+Leader IT,AVENGA,Backend,0,Senior,26880,30240,"Java,Web applications,English,Scrum","Vue.js,SAFe"
+Software Development Engineer III (Java + Python),Tesco Technology,Backend,0,Senior,26000,36000,"Java,SQL,Design Patterns,Testing,Spring Boot,Protocols,Jenkins,Docker,Cloud platform,Microsoft Azure,Networking,Python","High availability,Software Development Life Cycle"
+Senior Software Engineer,DATEV,Fullstack,0,Senior,17017,30252,"Cloud Native,Spring Boot,JPA,Maven,Angular,REST,JavaScript,TypeScript,PostgreSQL,MongoDB,Jenkins,Git,Java","Tailwind,Kafka,RabbitMQ,Node.js,Cloud Foundry,VMware Tanzu"
+SAP Commerce Cloud Developer,VML Enterprise Solutions,Backend,1,Mid,16800,25200,"SAP,Cloud,Java,Data structures,Web technologies,HTML5,CSS,JavaScript,Windows,Linux,Operating system,java 17,Web,Hybris,cloud","Spring,Groovy,Scala,REST,JSON,MongoDB,Apache Kafka,Rabbit MQ,Cassandra"
+Case Manager Technical Leader,Inter Cars S.A.,Backend,1,Senior,18500,22000,"IBM,BPMN,Java,Spring,Spring Boot,Maven,Git,Confluence","CAN,SOAP,REST API,ETL,Kafka"
+Senior Software Engineer,Appfire,Backend,1,Senior,18300,25100,"Java,MVC,Boot,OOP,Web applications,AWS,GCP","TypeScript,JavaScript"
+Software Developer (Java),Cinkciarz.pl Sp. z o.o.,Backend,1,Mid,,,"Java,Spring Boot,Hibernate,Git,REST API,Docker,CI/CD Pipelines","Google Cloud Platform,PHP,Frontend"
+Senior Java Engineer,Grid Dynamics,Backend,0,Senior,20000,28000,"Java,Spring,unit/integration testing,Maven,Critical thinking,Communication skills,Team player,Problem solving,VSC (Git/SVN),Spring Boot,Spring Cloud,unit/integration test,Cloud,Hibernate","CI/CD,Apache Nifi,jobDSL,Docker,Jenkins,Datadog"
+Programista / Programistka Java,Centralny Ośrodek Informatyki,Backend,1,Mid,13000,16000,"JVM,Java,Kotlin,Spring Boot,ORM,Liquibase,GraphQL,TDD,BDD,Git,Jenkins,Artifactory,Confluence,AD,Gitflow","SSO,Keycloak,CA,OWASP,DevOps,Azure,AWS,GCP"
+Remote Java Developer (with AWS),SquareOne,Backend,1,Senior,21840,26880,"Java,Spring,AWS,Microservices","DDD,NoSQL,Python,Machine learning"
+Młodszy Programista / Młodsza Programistka Java,Centralny Ośrodek Informatyki,Backend,1,Junior,8000,10000,"Java,JVM,Kotlin,Spring Boot,Liquibase",
+Java Backend Developer,Comfortel,Backend,0,Mid,,,"Java,Spring","PostgreSQL,Angular,Git,SVN,Maven"
+Senior Java Backend Developer,VHV Informatyka Sp. z o.o.,Backend,0,Senior,22000,30000,"Java,SQL,Git","Spring,JUnit,Jenkins"
+Senior Full Stack Engineer (Java + React),N-iX,Fullstack,1,Senior,20237,24689,"Java,React,Java Spring,Scala,Spring Boot,Vue.js,Reactive JS,Selenium,JUnit,Protractor",Kotlin
+Java Engineer (Kafka) - Remote,7N,Backend,1,Senior,26040,29400,"Java,Microservices,Docker,Kubernetes,Spring Boot,Apache Kafka,AWS",
+Senior Java Developer,First Derivative,Backend,0,Senior,28560,36960,"Java,Spring Boot,Microservices,CI/CD Pipelines,SQL,REST,Unit testing","Linux,RabbitMQ,Git,Kafka,Kubernetes,Docker,NoSQL,DB2,Oracle DB,lombok,Gradle"
+Software Engineer (Java/Kotlin),Allegro,Backend,0,Mid,12300,17600,"Java,Kotlin,Scala",
+Senior Java Developer – financial industry,Sii Polska,Backend,0,Senior,21000,29400,"Java,DevOps,FIX",
+Senior Software Engineer (Java/Kotlin),Allegro,Backend,0,Senior,16100,23200,".NET,Kotlin,Scala,Java",Event Sourcing
+Mid/Senior Java AEM Developer,Dynamic Solutions,Backend,0,Mid,21000,31080,"Java,Java EE,Maven,HTTP,CI/CD,REST,REST API","Adobe Experience Manager,OSGi,Apache Sling,Docker"
+Java Developer with French or German,Sollers Consulting,Backend,0,Junior,10200,17200,"Java,OOP,Design Patterns,Clean Code","Web Services,SOAP,Microservices,JMS,Spring"
+Senior Java Engineer,AVENGA,Backend,1,Senior,26880,31080,"Java,Spring Boot,Kubernetes,Docker,AWS,Kafka,Event Sourcing",
+Java Developer,Nekken Sp. z o.o.,Backend,0,Mid,10000,17000,"Java,Hibernate,Git,Spring Boot,Maven,SonarQube,IntelliJ IDEA,Docker Containers K8s,Rancher,OpenShift,Gitflow","Team player,Communication skills,Fast learner,Willingness to learn,Problem solving,Angular,Docker"
+Senior Java Developer,Sollers Consulting,Backend,0,Senior,15400,23000,"Java,OOP,Design Patterns,Web Services,SOAP,Microservices,JMS,Clean Code,Spring","Hibernate,Git,Maven,Jenkins"
+Java FullStack Developer,ITDS,Fullstack,0,Senior,16800,21840,"Java,J2EE,Hibernate,JUnit,Spring,Angular,JavaScript,JSON,XML,Microservices,SQL,Git,Maven","Jenkins,Sonar,UX design"
+Remote Senior Java Developer,Matrix Global Services,Backend,1,Senior,25993,31192,"Java,C#","AWS,Cloud development"
+Software Development Manager Java,Tesco Technology,Backend,0,Expert,28000,40000,"Java,Design Patterns,Testing,Spring,Spring Boot,Kubernetes,Cloud platform,SDLC,Team management,JVM,Kotlin,JUnit,Azure,DevOps,CI,CD pipelines,IaaC,Communication skills",
+Tech Lead/Senior Java Engineer,Motorola Solutions Systems Polska,Backend,0,Expert,20000,25000,"Java,Spring Boot,Analytical skills,Microservices,REST API,Kubernetes,Docker,AWS,Azure,Automated testing","Networking,SIP,RTP,Angular"
+Programista Java Developer,Solid MCG,Backend,0,Mid,8000,15000,"Java,SQL,Spring,Technologie REST,JPA,Hibernate,ActiveMQ,JMS,Maven","React,Angular,CSS,GWT,JavaFX,PostgreSQL,Gradle,QueryDSL"
+Java Developer,Hays Poland,Backend,0,Mid,21840,25200,"Java,Jira,REST API,JSON,SOAP,Web service,XML","XSD,Apache Kafka,Git,Gerrit"
+Senior Java Engineer,N-iX,Backend,1,Senior,22260,25093,"Java,Kotlin,Spring Framework,NoSQL,Protocols,REST API,gRPC,GraphQL,Apache Kafka,Docker,Kubernetes",
+Senior Java Software Engineer,Motorola Solutions Systems Polska,Backend,0,Senior,18000,21000,"Java,Spring Boot,Kubernetes,Docker,Microservices,CI/CD","WebRTC,Azure Cloud,Git,GitHub"
+Remote Senior Java Developer,Centralny Ośrodek Informatyki,Backend,1,Senior,17000,23000,Java,"Spring Framework,JPA,ORM,Hibernate,SOAP,REST API,GraphQL,Docker,Kubernetes,Liquibase,Maven,Gradle,Git,Jenkins,GitLab,Mockito,Spock,SSO,Keycloak,OWASP,RabbitMQ,Kafka,Tomcat,JBoss,WebLogic,WildFly"
+Remote Senior Full Stack Engineer (Java),Varwise,Fullstack,1,Senior,30355,40474,"Java,Spring Boot,React,JavaScript,PostgreSQL,Neo4j,Linux,Redux,JVM","Kinesis,Jenkins,Datadog,Kafka,Kubernetes"
+Senior Expert Full Stack Developer (Java + React),Clurgo Sp. z o.o.,Fullstack,1,Senior,26880,31920,"Java,React,Spring,JUnit,Mockito,Kubernetes",
+"Java, .NET, Typescript Engineer - Digital Core",Volvo Tech Hub Poland,Fullstack,0,Mid,14000,26000,"Java,Spring,.NET,SQL,Angular,TypeScript,Azure Cloud,Message queue,REST API,CI/CD,Microservices","Docker,Kubernetes,DevOps,Oracle DB,OpenShift,Kafka"
+Junior Java Software Engineer,Sportradar,Backend,0,Junior,,,"Object-oriented programming,Product development,Java","Clean Code,AWS,RabbitMQ,Kafka,Docker,Kubernetes"
+Team Lead Java&Angular,Prime Engineering,Fullstack,0,Senior,26500,28500,"Java,Angular,JDBC,Spring,JPA,Hibernate,JavaScript,TypeScript,HTML,CSS,SQL,RDBMS,RxJS,OpenAPI,Swagger","Redux,NgRx,NX,Jenkins"
+Full-stack Developer (Java/Angular),UNIQA Polska,Fullstack,0,Senior,,,"Java,Angular,Keycloak,TypeScript,Spring Boot,K8s,SVN,Git,API,Oracle,PostgreSQL",Dynatrace
+Senior Backend Engineer (Java),Zowie,Backend,1,Senior,20000,30000,"JVM,SQL,Critical thinking,Proactivity,Java","NoSQL,MongoDB,Elasticsearch,Cassandra,Kafka,GraphQL,Docker,Kubernetes,Spring"
+Java Developer,Engenious,Backend,1,Senior,26880,31920,"Java,Communication skills,Scripting language,Groovy,SQL,JavaScript,REST API,Microservices,Cloud","Maven,Eclipse,Spring,Boot,ORM,Hibernate,Docker,Kubernetes,J2EE,JMS,BPMN"
+JAVA DEVELOPER,Decerto Sp. z o.o.,Backend,1,Mid,18480,23520,"Java,Spring,Hibernate,Docker",Angular
+Senior Java Developer,"Dunning, Kruger & Associates Sp. z o.o.",Backend,0,Senior,21840,30240,"Java,REST,Spring,JUnit","Git,Maven,WebSphere Application Server"
+Java Developer,Ośrodek Przetwarzania Informacji - Państwowy Instytut Badawczy,Fullstack,0,Mid,10000,15000,"DDD,CQRS,Spring,Spring Boot,Spring Cloud,Angular,Kafka,Java","HTML,JavaScript,Git,Maven,Docker,REST,Spock,CSS,IntelliJ IDEA"
+Senior Java Developer - Remote,Infogain Technologies Sp. z o.o.,Backend,1,Senior,18000,26000,"Java,Spring Framework,Design Patterns,Docker,Google cloud platform","MongoDB,Camel,Spock,Groovy,React"
+Java Backend Developer,Arelion,Backend,0,Mid,20160,25200,"Java,Docker,Git,REST,Spring Boot,RDBMS,SQL,Kubernetes,GitHub Actions","AWS,Elasticsearch,RabbitMQ,Linux,NoSQL,Jakarta EE,Bash,Terraform,Helm,Network protocols"
